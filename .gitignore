@@ -1,0 +1,22 @@
+# Python Virtual Environment & Bytecode
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset & Images (miProgram research-only license: do not redistribute raw photos)
+data/raw/
+data/augmented/
+data/augmented_pilot/
+data/demo_augmented/
+data/temp_uploads/
+data/synthetic_stress/
+data/audit_samples/
+*.jpg
+*.jpeg
+*.png
+
+# API Cache & Archives
+cache/
+*.zip
+.DS_Store
