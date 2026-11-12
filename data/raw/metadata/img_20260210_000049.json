@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260210_000049",
+    "filename":  "img_20260210_000049.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-10",
+    "capture_date":  "2026-02-10",
+    "capture_device":  "Apple iPhone 15 Pro Max",
+    "property":  {
+                     "archetype":  "Flat",
+                     "property_type":  "Flat/Apartment",
+                     "region":  "Greater London"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Bedroom",
+                                 "floor":  null,
+                                 "room_label":  "Bedroom"
+                             },
+    "subject":  {
+                    "element_type":  "Floor",
+                    "element_subtype":  "Laminate"
+                },
+    "labels":  {
+                   "condition_rating":  "Good",
+                   "material":  "Laminate",
+                   "colour":  "Wood - Medium",
+                   "finish":  "Laminate",
+                   "brand":  null,
+                   "defect_types":  [
+                                        "Slightly Scuffed"
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client User",
+                      "report_qa_status":  "Awaiting approval"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "640x480",
+                            "aspect_ratio":  "4:3",
+                            "orientation":  "Landscape",
+                            "file_size_kb":  86
+                        }
+}

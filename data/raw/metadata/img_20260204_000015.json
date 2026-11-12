@@ -1,0 +1,44 @@
+{
+    "image_id":  "img_20260204_000015",
+    "filename":  "img_20260204_000015.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-04",
+    "capture_date":  "2026-02-04",
+    "capture_device":  "Apple iPhone 16 Pro",
+    "property":  {
+                     "archetype":  "Detached",
+                     "property_type":  "House",
+                     "region":  "South East England"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Living Room",
+                                 "floor":  null,
+                                 "room_label":  "Living Room"
+                             },
+    "subject":  {
+                    "element_type":  "Door",
+                    "element_subtype":  "Single Door"
+                },
+    "labels":  {
+                   "condition_rating":  "Fair",
+                   "material":  "Single Door",
+                   "colour":  "White",
+                   "finish":  "Wooden Painted",
+                   "brand":  null,
+                   "defect_types":  [
+                                        "Chipped",
+                                        "Paint splashes and marks",
+                                        "Small Marks"
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "640x480",
+                            "aspect_ratio":  "4:3",
+                            "orientation":  "Landscape",
+                            "file_size_kb":  109
+                        }
+}

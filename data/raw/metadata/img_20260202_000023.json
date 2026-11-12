@@ -1,0 +1,43 @@
+{
+    "image_id":  "img_20260202_000023",
+    "filename":  "img_20260202_000023.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-02",
+    "capture_date":  null,
+    "capture_device":  null,
+    "property":  {
+                     "archetype":  "Flat",
+                     "property_type":  "Flat/Apartment",
+                     "region":  "North West England"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Bathroom/Toilet",
+                                 "floor":  null,
+                                 "room_label":  "Bathroom/Toilet"
+                             },
+    "subject":  {
+                    "element_type":  "Wall",
+                    "element_subtype":  "Tiled and Painted Plaster"
+                },
+    "labels":  {
+                   "condition_rating":  "Good",
+                   "material":  "Tiled and Painted Plaster",
+                   "colour":  "As Picture",
+                   "finish":  null,
+                   "brand":  null,
+                   "defect_types":  [
+                                        "Clean",
+                                        "Paint splashes and marks"
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Sent to client"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "526x960",
+                            "aspect_ratio":  "263:480",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  65
+                        }
+}

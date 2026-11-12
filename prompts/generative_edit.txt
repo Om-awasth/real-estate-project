@@ -1,0 +1,4 @@
+Edit this real-estate photo ONLY by changing the lighting to: {lighting_description}.
+Keep identical: room layout, camera position and field of view, all objects, all surface textures, and every mark, scuff, crack, stain or wear listed here: {must_preserve}.
+Do not add, remove, repair, clean or damage anything. Do not add people, text or watermarks. The result must look like an ordinary smartphone photo, not a professional render.
+

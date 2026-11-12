@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260204_000011",
+    "filename":  "img_20260204_000011.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-04",
+    "capture_date":  "2026-02-05",
+    "capture_device":  "Apple iPad mini",
+    "property":  {
+                     "archetype":  "Flat",
+                     "property_type":  "Flat/Apartment",
+                     "region":  "South East England"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Kitchen",
+                                 "floor":  null,
+                                 "room_label":  "Kitchen"
+                             },
+    "subject":  {
+                    "element_type":  "Door",
+                    "element_subtype":  "Double Door"
+                },
+    "labels":  {
+                   "condition_rating":  "Good",
+                   "material":  "Double Door",
+                   "colour":  "White",
+                   "finish":  "Wooden Painted",
+                   "brand":  null,
+                   "defect_types":  [
+                                        "Slightly Scuffed"
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Data Controller",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "480x640",
+                            "aspect_ratio":  "3:4",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  64
+                        }
+}

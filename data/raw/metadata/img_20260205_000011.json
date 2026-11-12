@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260205_000011",
+    "filename":  "img_20260205_000011.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-05",
+    "capture_date":  "2026-02-05",
+    "capture_device":  "Apple iPhone 16 Pro",
+    "property":  {
+                     "archetype":  "Flat",
+                     "property_type":  "Flat/Apartment",
+                     "region":  "Greater London"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Living Room",
+                                 "floor":  null,
+                                 "room_label":  "Living Room"
+                             },
+    "subject":  {
+                    "element_type":  "Room overview",
+                    "element_subtype":  null
+                },
+    "labels":  {
+                   "condition_rating":  null,
+                   "material":  null,
+                   "colour":  null,
+                   "finish":  null,
+                   "brand":  null,
+                   "defect_types":  [
+
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Awaiting approval"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "640x480",
+                            "aspect_ratio":  "4:3",
+                            "orientation":  "Landscape",
+                            "file_size_kb":  60
+                        }
+}

@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260207_000003",
+    "filename":  "img_20260207_000003.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-07",
+    "capture_date":  "2026-02-06",
+    "capture_device":  "Apple iPhone 14 Pro Max",
+    "property":  {
+                     "archetype":  "Terrace",
+                     "property_type":  "House",
+                     "region":  "North West England"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Bathroom/Toilet",
+                                 "floor":  null,
+                                 "room_label":  "Bathroom"
+                             },
+    "subject":  {
+                    "element_type":  "Room overview",
+                    "element_subtype":  null
+                },
+    "labels":  {
+                   "condition_rating":  null,
+                   "material":  null,
+                   "colour":  null,
+                   "finish":  null,
+                   "brand":  null,
+                   "defect_types":  [
+
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "480x640",
+                            "aspect_ratio":  "3:4",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  68
+                        }
+}

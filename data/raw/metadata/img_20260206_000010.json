@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260206_000010",
+    "filename":  "img_20260206_000010.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-06",
+    "capture_date":  "2026-02-06",
+    "capture_device":  "Apple iPad mini (5th generation)",
+    "property":  {
+                     "archetype":  "Maisonette",
+                     "property_type":  "Flat/Apartment",
+                     "region":  "South East England"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Living Room",
+                                 "floor":  null,
+                                 "room_label":  "Living Room"
+                             },
+    "subject":  {
+                    "element_type":  "Door",
+                    "element_subtype":  "Single Door"
+                },
+    "labels":  {
+                   "condition_rating":  "Newly Decorated",
+                   "material":  "Single Door",
+                   "colour":  "White",
+                   "finish":  "Wooden Painted",
+                   "brand":  null,
+                   "defect_types":  [
+
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client User",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "480x640",
+                            "aspect_ratio":  "3:4",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  63
+                        }
+}

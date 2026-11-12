@@ -1,0 +1,37 @@
+{
+  "room_type": "other",
+  "element_focus": "ceiling",
+  "lighting": {
+    "brightness": 3,
+    "color_temperature": "neutral",
+    "issues": [
+      "none"
+    ]
+  },
+  "camera": {
+    "height": "high",
+    "tilt_degrees_estimate": 4.5,
+    "distortion": "none"
+  },
+  "condition_signals": [
+    {
+      "cue": "visible surface peeling and structural cracking",
+      "location": "center-left surface",
+      "severity": 3
+    },
+    {
+      "cue": "water ingress discoloration and staining",
+      "location": "upper boundary",
+      "severity": 2
+    }
+  ],
+  "must_preserve": [
+    "surface crack pattern and fracture lines",
+    "peeling plaster edges and paint flaking",
+    "dark water stain boundary"
+  ],
+  "image_quality": {
+    "sharpness": 4,
+    "noise": 2
+  }
+}

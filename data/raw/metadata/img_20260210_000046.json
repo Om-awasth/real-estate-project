@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260210_000046",
+    "filename":  "img_20260210_000046.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-10",
+    "capture_date":  "2024-10-10",
+    "capture_device":  "Apple iPad mini",
+    "property":  {
+                     "archetype":  "Semi",
+                     "property_type":  "House",
+                     "region":  "West Midlands"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Conservatory",
+                                 "floor":  null,
+                                 "room_label":  "Conservatory"
+                             },
+    "subject":  {
+                    "element_type":  "Door",
+                    "element_subtype":  "Patio Door"
+                },
+    "labels":  {
+                   "condition_rating":  "Poor",
+                   "material":  "Patio Door",
+                   "colour":  "White",
+                   "finish":  "Wooden Painted",
+                   "brand":  null,
+                   "defect_types":  [
+
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "480x640",
+                            "aspect_ratio":  "3:4",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  130
+                        }
+}

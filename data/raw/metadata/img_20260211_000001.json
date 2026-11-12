@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260211_000001",
+    "filename":  "img_20260211_000001.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-11",
+    "capture_date":  null,
+    "capture_device":  null,
+    "property":  {
+                     "archetype":  "Terrace",
+                     "property_type":  "Flat/Apartment",
+                     "region":  "East Midlands"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Stairs",
+                                 "floor":  null,
+                                 "room_label":  "Entrance"
+                             },
+    "subject":  {
+                    "element_type":  "Wall",
+                    "element_subtype":  "Painted Plaster"
+                },
+    "labels":  {
+                   "condition_rating":  "Aged",
+                   "material":  "Painted Plaster",
+                   "colour":  "White",
+                   "finish":  null,
+                   "brand":  null,
+                   "defect_types":  [
+
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "480x640",
+                            "aspect_ratio":  "3:4",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  64
+                        }
+}

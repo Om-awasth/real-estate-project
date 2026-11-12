@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260203_000038",
+    "filename":  "img_20260203_000038.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-03",
+    "capture_date":  "2026-02-03",
+    "capture_device":  "Apple iPhone 12",
+    "property":  {
+                     "archetype":  "Terrace",
+                     "property_type":  "House",
+                     "region":  "Yorkshire and the Humber"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Cellar/Basement",
+                                 "floor":  null,
+                                 "room_label":  "Cellar/Basement"
+                             },
+    "subject":  {
+                    "element_type":  "Room overview",
+                    "element_subtype":  null
+                },
+    "labels":  {
+                   "condition_rating":  null,
+                   "material":  null,
+                   "colour":  null,
+                   "finish":  null,
+                   "brand":  null,
+                   "defect_types":  [
+
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Awaiting approval"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "480x640",
+                            "aspect_ratio":  "3:4",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  100
+                        }
+}

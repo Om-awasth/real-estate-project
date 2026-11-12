@@ -1,0 +1,25 @@
+{
+  "room_type": "living_room",
+  "element_focus": "window",
+  "lighting": {
+    "brightness": 3,
+    "color_temperature": "neutral",
+    "issues": [
+      "none"
+    ]
+  },
+  "camera": {
+    "height": "eye",
+    "tilt_degrees_estimate": 4.5,
+    "distortion": "none"
+  },
+  "condition_signals": [],
+  "must_preserve": [
+    "clean uniform paintwork and intact finish",
+    "unblemished grout/seam lines and spotless surface"
+  ],
+  "image_quality": {
+    "sharpness": 4,
+    "noise": 2
+  }
+}

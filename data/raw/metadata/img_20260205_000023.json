@@ -1,0 +1,43 @@
+{
+    "image_id":  "img_20260205_000023",
+    "filename":  "img_20260205_000023.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-05",
+    "capture_date":  "2026-01-22",
+    "capture_device":  "Apple iPhone 15",
+    "property":  {
+                     "archetype":  "Semi",
+                     "property_type":  "House",
+                     "region":  "Wales"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Bedroom",
+                                 "floor":  null,
+                                 "room_label":  "Bedroom"
+                             },
+    "subject":  {
+                    "element_type":  "Door",
+                    "element_subtype":  "Single Door"
+                },
+    "labels":  {
+                   "condition_rating":  "Good",
+                   "material":  "Single Door",
+                   "colour":  "White",
+                   "finish":  "Wooden Painted",
+                   "brand":  null,
+                   "defect_types":  [
+                                        "Attention advised",
+                                        "Patchy paintwork"
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "480x640",
+                            "aspect_ratio":  "3:4",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  54
+                        }
+}

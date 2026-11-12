@@ -1,0 +1,67 @@
+# ListingAugment AI Pipeline Configuration
+
+project:
+  name: "ListingAugment AI"
+  domain: "Real Estate Property Condition Assessment"
+  version: "0.1.0"
+
+models:
+  # Multimodal analyzer, planner, and quality judge (Step 0 verified)
+  analyzer: "gemini-3.8-flash"
+  planner: "gemini-3.8-flash"
+  verifier: "gemini-3.8-flash"
+  # Generative relighting model (Step 0 verified)
+  generative_relighter: "gemini-nano-banana-2.1"
+
+label_mapping:
+  GOOD:
+    - "Brand New"
+    - "As New"
+    - "Newly Decorated"
+    - "Clean"
+    - "Good"
+  FAIR:
+    - "Fair"
+    - "Used"
+    - "Aged"
+    - "Dusty"
+  POOR:
+    - "Poor"
+  EXCLUDED:
+    - null
+    - "See Notes"
+
+dataset:
+  hf_repo: "miprogram/uk-property-inspection-sample"
+  raw_dir: "data/raw"
+  manifest_path: "data/manifest.csv"
+  augmented_dir: "data/augmented"
+  hard_test_dir: "data/hard_test"
+  hard_test_labels: "data/hard_test/labels.csv"
+  synthetic_stress_dir: "data/synthetic_stress"
+  num_folds: 5
+  random_seed: 42
+  eval_seeds: [42, 123, 999]
+
+api:
+  dry_run: true
+  cache_dir: "cache/api_responses"
+  cost_cap_usd: 5.00
+  max_calls_per_run: 50
+  pricing:
+    gemini_3_8_flash_input_per_m: 0.75
+    gemini_3_8_flash_output_per_m: 3.75
+    gemini_nano_banana_per_image: 0.03
+  retry:
+    max_retries: 2
+    backoff_factor: 2.0
+  temperature:
+    analyze: 0.1
+    plan: 0.2
+    verify: 0.0
+
+verification:
+  min_realism: 3
+  ssim_threshold: 0.60
+  feature_drift_max: 0.35
+

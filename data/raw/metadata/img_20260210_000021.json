@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260210_000021",
+    "filename":  "img_20260210_000021.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-10",
+    "capture_date":  "2022-06-13",
+    "capture_device":  "Apple iPhone SE (2nd generation)",
+    "property":  {
+                     "archetype":  "Detached",
+                     "property_type":  "Flat/Apartment",
+                     "region":  "North West England"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Kitchen",
+                                 "floor":  null,
+                                 "room_label":  "Kitchen/Living Room/Dining Area"
+                             },
+    "subject":  {
+                    "element_type":  "Room overview",
+                    "element_subtype":  null
+                },
+    "labels":  {
+                   "condition_rating":  null,
+                   "material":  null,
+                   "colour":  null,
+                   "finish":  null,
+                   "brand":  null,
+                   "defect_types":  [
+
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "4032x3024",
+                            "aspect_ratio":  "4:3",
+                            "orientation":  "Landscape",
+                            "file_size_kb":  2637
+                        }
+}

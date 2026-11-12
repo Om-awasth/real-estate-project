@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260205_000001",
+    "filename":  "img_20260205_000001.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-05",
+    "capture_date":  null,
+    "capture_device":  null,
+    "property":  {
+                     "archetype":  "Detached",
+                     "property_type":  "House",
+                     "region":  "West Midlands"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Garage",
+                                 "floor":  null,
+                                 "room_label":  "Garage"
+                             },
+    "subject":  {
+                    "element_type":  "Room overview",
+                    "element_subtype":  null
+                },
+    "labels":  {
+                   "condition_rating":  null,
+                   "material":  null,
+                   "colour":  null,
+                   "finish":  null,
+                   "brand":  null,
+                   "defect_types":  [
+
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "4284x5712",
+                            "aspect_ratio":  "3:4",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  8067
+                        }
+}

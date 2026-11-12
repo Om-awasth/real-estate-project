@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260202_000024",
+    "filename":  "img_20260202_000024.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-02",
+    "capture_date":  "2026-02-02",
+    "capture_device":  "Apple iPad mini",
+    "property":  {
+                     "archetype":  "Flat",
+                     "property_type":  "Flat/Apartment",
+                     "region":  "South East England"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Kitchen",
+                                 "floor":  null,
+                                 "room_label":  "Kitchen"
+                             },
+    "subject":  {
+                    "element_type":  "Floor",
+                    "element_subtype":  "Linoleum"
+                },
+    "labels":  {
+                   "condition_rating":  "Fair",
+                   "material":  "Linoleum",
+                   "colour":  "Brown",
+                   "finish":  "Linoleum",
+                   "brand":  null,
+                   "defect_types":  [
+                                        "Marked"
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client User",
+                      "report_qa_status":  "Sent to client"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "640x480",
+                            "aspect_ratio":  "4:3",
+                            "orientation":  "Landscape",
+                            "file_size_kb":  120
+                        }
+}

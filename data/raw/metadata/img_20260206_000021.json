@@ -1,0 +1,43 @@
+{
+    "image_id":  "img_20260206_000021",
+    "filename":  "img_20260206_000021.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-06",
+    "capture_date":  "2026-02-05",
+    "capture_device":  "Apple iPhone 11 Pro",
+    "property":  {
+                     "archetype":  "Detached",
+                     "property_type":  "Flat/Apartment",
+                     "region":  "Yorkshire and the Humber"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Living Room",
+                                 "floor":  null,
+                                 "room_label":  "Living Room"
+                             },
+    "subject":  {
+                    "element_type":  "Floor",
+                    "element_subtype":  "Fitted Carpet"
+                },
+    "labels":  {
+                   "condition_rating":  "Used",
+                   "material":  "Fitted Carpet",
+                   "colour":  "Brown",
+                   "finish":  "Fitted Carpet",
+                   "brand":  null,
+                   "defect_types":  [
+                                        "Flooring worn to walkways",
+                                        "Furniture dents"
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "640x480",
+                            "aspect_ratio":  "4:3",
+                            "orientation":  "Landscape",
+                            "file_size_kb":  62
+                        }
+}

@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260210_000025",
+    "filename":  "img_20260210_000025.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-10",
+    "capture_date":  null,
+    "capture_device":  null,
+    "property":  {
+                     "archetype":  "Semi",
+                     "property_type":  "House",
+                     "region":  "West Midlands"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Kitchen",
+                                 "floor":  null,
+                                 "room_label":  "Kitchen"
+                             },
+    "subject":  {
+                    "element_type":  "Floor",
+                    "element_subtype":  "Tiles"
+                },
+    "labels":  {
+                   "condition_rating":  "Clean",
+                   "material":  "Tiles",
+                   "colour":  "Grey",
+                   "finish":  "Tiles",
+                   "brand":  null,
+                   "defect_types":  [
+
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client User",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "456x960",
+                            "aspect_ratio":  "19:40",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  124
+                        }
+}

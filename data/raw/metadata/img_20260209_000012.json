@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260209_000012",
+    "filename":  "img_20260209_000012.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-09",
+    "capture_date":  "2023-08-07",
+    "capture_device":  "Apple iPhone SE (2nd generation)",
+    "property":  {
+                     "archetype":  "Detached",
+                     "property_type":  "House",
+                     "region":  "North West England"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Bedroom",
+                                 "floor":  null,
+                                 "room_label":  "Bedroom"
+                             },
+    "subject":  {
+                    "element_type":  "Room overview",
+                    "element_subtype":  null
+                },
+    "labels":  {
+                   "condition_rating":  null,
+                   "material":  null,
+                   "colour":  null,
+                   "finish":  null,
+                   "brand":  null,
+                   "defect_types":  [
+
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "4032x3024",
+                            "aspect_ratio":  "4:3",
+                            "orientation":  "Landscape",
+                            "file_size_kb":  2684
+                        }
+}

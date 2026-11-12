@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260206_000046",
+    "filename":  "img_20260206_000046.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-06",
+    "capture_date":  "2026-02-06",
+    "capture_device":  "Apple iPhone 12",
+    "property":  {
+                     "archetype":  "Terrace",
+                     "property_type":  "House",
+                     "region":  "East of England"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Living Room",
+                                 "floor":  null,
+                                 "room_label":  "Living Room"
+                             },
+    "subject":  {
+                    "element_type":  "Floor",
+                    "element_subtype":  "Laminate"
+                },
+    "labels":  {
+                   "condition_rating":  "Good",
+                   "material":  "Laminate",
+                   "colour":  "As Picture",
+                   "finish":  "Laminate",
+                   "brand":  null,
+                   "defect_types":  [
+
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "640x480",
+                            "aspect_ratio":  "4:3",
+                            "orientation":  "Landscape",
+                            "file_size_kb":  56
+                        }
+}

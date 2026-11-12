@@ -1,0 +1,43 @@
+{
+    "image_id":  "img_20260202_000057",
+    "filename":  "img_20260202_000057.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-02",
+    "capture_date":  "2026-02-02",
+    "capture_device":  "Apple iPhone 15",
+    "property":  {
+                     "archetype":  "Mid-Terrace",
+                     "property_type":  "House",
+                     "region":  "Wales"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Kitchen",
+                                 "floor":  null,
+                                 "room_label":  "Kitchen"
+                             },
+    "subject":  {
+                    "element_type":  "Ceiling",
+                    "element_subtype":  null
+                },
+    "labels":  {
+                   "condition_rating":  "Good",
+                   "material":  null,
+                   "colour":  "White",
+                   "finish":  "Artex",
+                   "brand":  null,
+                   "defect_types":  [
+                                        "Plaster - cracked",
+                                        "Plaster - under surface conditions"
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "640x480",
+                            "aspect_ratio":  "4:3",
+                            "orientation":  "Landscape",
+                            "file_size_kb":  36
+                        }
+}

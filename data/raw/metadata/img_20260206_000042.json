@@ -1,0 +1,43 @@
+{
+    "image_id":  "img_20260206_000042",
+    "filename":  "img_20260206_000042.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-06",
+    "capture_date":  "2026-02-05",
+    "capture_device":  "Apple iPhone 16",
+    "property":  {
+                     "archetype":  "Mid-Terrace",
+                     "property_type":  "House",
+                     "region":  "South West England"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Bedroom",
+                                 "floor":  null,
+                                 "room_label":  "Bedroom 2"
+                             },
+    "subject":  {
+                    "element_type":  "Door",
+                    "element_subtype":  "Single Door"
+                },
+    "labels":  {
+                   "condition_rating":  "Good",
+                   "material":  "Single Door",
+                   "colour":  "White",
+                   "finish":  "Wooden Painted",
+                   "brand":  null,
+                   "defect_types":  [
+                                        "Clean",
+                                        "Small Marks"
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "480x640",
+                            "aspect_ratio":  "3:4",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  58
+                        }
+}

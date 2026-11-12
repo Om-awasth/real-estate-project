@@ -1,0 +1,45 @@
+{
+    "image_id":  "img_20260210_000044",
+    "filename":  "img_20260210_000044.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-10",
+    "capture_date":  "2026-02-10",
+    "capture_device":  "Apple iPad mini 4",
+    "property":  {
+                     "archetype":  "Flat",
+                     "property_type":  "Flat/Apartment",
+                     "region":  "West Midlands"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Bedroom",
+                                 "floor":  null,
+                                 "room_label":  "Bedroom 2"
+                             },
+    "subject":  {
+                    "element_type":  "Floor",
+                    "element_subtype":  "Fitted Carpet"
+                },
+    "labels":  {
+                   "condition_rating":  "Poor",
+                   "material":  "Fitted Carpet",
+                   "colour":  "Light Brown",
+                   "finish":  "Fitted Carpet",
+                   "brand":  null,
+                   "defect_types":  [
+                                        "Discolouration to edges",
+                                        "Flooring marked",
+                                        "Flooring worn to walkways",
+                                        "Furniture dents"
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Awaiting approval"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "640x480",
+                            "aspect_ratio":  "4:3",
+                            "orientation":  "Landscape",
+                            "file_size_kb":  90
+                        }
+}

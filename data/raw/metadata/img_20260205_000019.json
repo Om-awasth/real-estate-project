@@ -1,0 +1,44 @@
+{
+    "image_id":  "img_20260205_000019",
+    "filename":  "img_20260205_000019.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-05",
+    "capture_date":  "2026-02-05",
+    "capture_device":  "Apple iPhone 16 Plus",
+    "property":  {
+                     "archetype":  "Terrace",
+                     "property_type":  "House",
+                     "region":  "East Midlands"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Living Room",
+                                 "floor":  null,
+                                 "room_label":  "Living Room"
+                             },
+    "subject":  {
+                    "element_type":  "Floor",
+                    "element_subtype":  "Laminate"
+                },
+    "labels":  {
+                   "condition_rating":  "Dusty",
+                   "material":  "Laminate",
+                   "colour":  "As Picture",
+                   "finish":  "Laminate",
+                   "brand":  null,
+                   "defect_types":  [
+                                        "Chipped",
+                                        "Dirty",
+                                        "Dusty - needs cleaning"
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client User",
+                      "report_qa_status":  "Sent to client"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "480x640",
+                            "aspect_ratio":  "3:4",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  61
+                        }
+}

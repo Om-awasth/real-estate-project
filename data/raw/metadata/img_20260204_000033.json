@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260204_000033",
+    "filename":  "img_20260204_000033.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-04",
+    "capture_date":  "2026-02-04",
+    "capture_device":  "Apple iPhone 17 Pro",
+    "property":  {
+                     "archetype":  "Flat",
+                     "property_type":  "Flat/Apartment",
+                     "region":  "Greater London"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Hallway",
+                                 "floor":  null,
+                                 "room_label":  "Hallway"
+                             },
+    "subject":  {
+                    "element_type":  "Floor",
+                    "element_subtype":  "Laminate"
+                },
+    "labels":  {
+                   "condition_rating":  "Good",
+                   "material":  "Laminate",
+                   "colour":  "Light Brown",
+                   "finish":  "Laminate",
+                   "brand":  null,
+                   "defect_types":  [
+                                        "Chipped"
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client User",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "480x640",
+                            "aspect_ratio":  "3:4",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  98
+                        }
+}

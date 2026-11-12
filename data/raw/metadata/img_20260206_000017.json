@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260206_000017",
+    "filename":  "img_20260206_000017.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-06",
+    "capture_date":  null,
+    "capture_device":  null,
+    "property":  {
+                     "archetype":  "Flat",
+                     "property_type":  "Flat/Apartment",
+                     "region":  "East Midlands"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Bathroom/Toilet",
+                                 "floor":  null,
+                                 "room_label":  "Showerroom/Toilet"
+                             },
+    "subject":  {
+                    "element_type":  "Wall",
+                    "element_subtype":  "See Notes"
+                },
+    "labels":  {
+                   "condition_rating":  "Brand New",
+                   "material":  "See Notes",
+                   "colour":  "As Picture",
+                   "finish":  null,
+                   "brand":  null,
+                   "defect_types":  [
+
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client User",
+                      "report_qa_status":  "Sent to client"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "307x640",
+                            "aspect_ratio":  "307:640",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  21
+                        }
+}

@@ -1,0 +1,46 @@
+{
+    "image_id":  "img_20260205_000038",
+    "filename":  "img_20260205_000038.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-05",
+    "capture_date":  "2026-02-05",
+    "capture_device":  "Apple iPhone XS Max",
+    "property":  {
+                     "archetype":  "Semi",
+                     "property_type":  "House",
+                     "region":  "North West England"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Stairs",
+                                 "floor":  null,
+                                 "room_label":  "Stairs/landing"
+                             },
+    "subject":  {
+                    "element_type":  "Window",
+                    "element_subtype":  "Casement"
+                },
+    "labels":  {
+                   "condition_rating":  "Good",
+                   "material":  "Casement",
+                   "colour":  "White",
+                   "finish":  null,
+                   "brand":  null,
+                   "defect_types":  [
+                                        "Paint splashes and marks",
+                                        "Patchy paintwork",
+                                        "Plaster - cracked",
+                                        "Plaster - under surface conditions",
+                                        "Sealant damaged"
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client User",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "480x640",
+                            "aspect_ratio":  "3:4",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  55
+                        }
+}

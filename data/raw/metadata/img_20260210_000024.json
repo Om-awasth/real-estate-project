@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260210_000024",
+    "filename":  "img_20260210_000024.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-10",
+    "capture_date":  null,
+    "capture_device":  null,
+    "property":  {
+                     "archetype":  "Semi",
+                     "property_type":  "House",
+                     "region":  "West Midlands"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Living Room",
+                                 "floor":  null,
+                                 "room_label":  "Living Room"
+                             },
+    "subject":  {
+                    "element_type":  "Floor",
+                    "element_subtype":  "Fitted Carpet"
+                },
+    "labels":  {
+                   "condition_rating":  "As New",
+                   "material":  "Fitted Carpet",
+                   "colour":  "Grey",
+                   "finish":  "Fitted Carpet",
+                   "brand":  null,
+                   "defect_types":  [
+
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client User",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "456x960",
+                            "aspect_ratio":  "19:40",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  169
+                        }
+}

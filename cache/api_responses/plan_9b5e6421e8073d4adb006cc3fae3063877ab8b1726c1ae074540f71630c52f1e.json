@@ -1,0 +1,37 @@
+{
+  "recipes": [
+    {
+      "id": "img_20260202_000043_recipe_1_classical_handheld",
+      "lighting_preset": "dim_evening_warm",
+      "camera_preset": "tilt_small",
+      "sensor_effects": [
+        "iso_noise",
+        "jpeg_low_quality"
+      ],
+      "method": "classical",
+      "generative_edit_instruction": null,
+      "rationale": "Simulate amateur handheld phone capture with slight tilt and compression artifacts while strictly preserving: clean uniform paintwork and intact finish; unblemished grout/seam lines and spotless surface."
+    },
+    {
+      "id": "img_20260202_000043_recipe_2_generative_relight",
+      "lighting_preset": "low_light_noisy",
+      "camera_preset": null,
+      "sensor_effects": [],
+      "method": "generative",
+      "generative_edit_instruction": "Change lighting to realistic low_light_noisy. Keep perfectly identical: clean uniform paintwork and intact finish; unblemished grout/seam lines and spotless surface.",
+      "rationale": "Test illumination robustness under realistic non-professional lighting shift without modifying geometric integrity."
+    },
+    {
+      "id": "img_20260202_000043_recipe_3_hybrid_amateur",
+      "lighting_preset": "backlit_window_glare",
+      "camera_preset": "off_center_crop",
+      "sensor_effects": [
+        "motion_blur_slight",
+        "exposure_bias"
+      ],
+      "method": "both",
+      "generative_edit_instruction": "Relight with backlit_window_glare. Strictly maintain: clean uniform paintwork and intact finish; unblemished grout/seam lines and spotless surface.",
+      "rationale": "Stress-test against combined off-center handheld framing and non-uniform lighting."
+    }
+  ]
+}

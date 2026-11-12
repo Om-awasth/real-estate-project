@@ -1,0 +1,424 @@
+image_id,filename,filepath,room_type,element_type,raw_condition,property_archetype,condition_label,status,is_element_rated,phash,fold
+img_20260201_000001,img_20260201_000001.jpg,data/raw/images/img_20260201_000001.jpg,Living Room,Room overview,,Semi,EXCLUDED,unrated_null,False,a0eedf29c15eae40,-1
+img_20260201_000002,img_20260201_000002.jpg,data/raw/images/img_20260201_000002.jpg,Reception Room,Room overview,,Semi,EXCLUDED,unrated_null,False,d2d60dc9c99696f0,-1
+img_20260201_000003,img_20260201_000003.jpg,data/raw/images/img_20260201_000003.jpg,Porch,Fixture,Good,Semi,GOOD,included,True,ff88807f3ac06d1a,3
+img_20260201_000004,img_20260201_000004.jpg,data/raw/images/img_20260201_000004.jpg,Kitchen,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,cf1ce043a6de9991,-1
+img_20260201_000005,img_20260201_000005.jpg,data/raw/images/img_20260201_000005.jpg,,Front elevation,,Flat,EXCLUDED,unrated_null,False,f29e9991a2782676,-1
+img_20260201_000006,img_20260201_000006.jpg,data/raw/images/img_20260201_000006.jpg,Hallway,Door,Used,Flat,FAIR,included,True,bf47410fe2380e8f,1
+img_20260201_000007,img_20260201_000007.jpg,data/raw/images/img_20260201_000007.jpg,Bedroom,Door,See Notes,Flat,EXCLUDED,excluded_label: See Notes,False,bf8362fe05748878,-1
+img_20260201_000008,img_20260201_000008.jpg,data/raw/images/img_20260201_000008.jpg,Bedroom,Wall,Good,Flat,GOOD,included,True,a832339906fe5cd9,2
+img_20260201_000009,img_20260201_000009.jpg,data/raw/images/img_20260201_000009.jpg,En-suite,Floor,Used,Flat,FAIR,included,True,abf163e7c49b140a,3
+img_20260201_000010,img_20260201_000010.jpg,data/raw/images/img_20260201_000010.jpg,Reception Room,Room overview,,Semi,EXCLUDED,unrated_null,False,ff80c01e9fc0e1d6,-1
+img_20260201_000011,img_20260201_000011.jpg,data/raw/images/img_20260201_000011.jpg,Dining Room,Room overview,,Semi,EXCLUDED,unrated_null,False,d1df68a0d6749788,-1
+img_20260201_000012,img_20260201_000012.jpg,data/raw/images/img_20260201_000012.jpg,Dining Room,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,d6b7a959c6e40856,-1
+img_20260201_000013,img_20260201_000013.jpg,data/raw/images/img_20260201_000013.jpg,Living Room,Room overview,,Terrace,EXCLUDED,unrated_null,False,c6b10998b0c7cfe6,-1
+img_20260201_000014,img_20260201_000014.jpg,data/raw/images/img_20260201_000014.jpg,Bedroom,Wall,See Notes,Terrace,EXCLUDED,excluded_label: See Notes,False,9e6621ee11cc73cc,-1
+img_20260202_000001,img_20260202_000001.jpg,data/raw/images/img_20260202_000001.jpg,Hallway,Ceiling,Newly Decorated,Detached,GOOD,included,True,bfe0c05c877480df,3
+img_20260202_000002,img_20260202_000002.jpg,data/raw/images/img_20260202_000002.jpg,Garden and Outdoors,Room overview,,End Terrace,EXCLUDED,unrated_null,False,80eaf498c4efb0b5,-1
+img_20260202_000003,img_20260202_000003.jpg,data/raw/images/img_20260202_000003.jpg,Kitchen,Kitchen appliance,Good,End Terrace,GOOD,included,True,b9c4c45b5c512ddc,0
+img_20260202_000004,img_20260202_000004.jpg,data/raw/images/img_20260202_000004.jpg,En-suite,Room overview,,Detached,EXCLUDED,unrated_null,False,872184cc7b32b96f,-1
+img_20260202_000005,img_20260202_000005.jpg,data/raw/images/img_20260202_000005.jpg,Bathroom/Toilet,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,87b332563566926b,-1
+img_20260202_000006,img_20260202_000006.jpg,data/raw/images/img_20260202_000006.jpg,Living Room,Ceiling,As New,Flat,GOOD,included,True,89562bd269bad42d,1
+img_20260202_000007,img_20260202_000007.jpg,data/raw/images/img_20260202_000007.jpg,Bathroom/Toilet,Window,Good,Flat,GOOD,included,True,c0bc3f438030df3f,2
+img_20260202_000008,img_20260202_000008.jpg,data/raw/images/img_20260202_000008.jpg,Kitchen,Floor,Fair,Flat,FAIR,included,True,d4a10e97328d33eb,4
+img_20260202_000009,img_20260202_000009.jpg,data/raw/images/img_20260202_000009.jpg,Kitchen,Floor,Brand New,Flat,GOOD,included,True,db5beb8390125a6c,0
+img_20260202_000010,img_20260202_000010.jpg,data/raw/images/img_20260202_000010.jpg,Kitchen,Kitchen appliance,Good,Flat,GOOD,included,True,fd80833ce9cb463c,4
+img_20260202_000011,img_20260202_000011.jpg,data/raw/images/img_20260202_000011.jpg,Hallway,Wall,Good,Flat,GOOD,included,True,d6c439fb33933103,4
+img_20260202_000012,img_20260202_000012.jpg,data/raw/images/img_20260202_000012.jpg,Reception Room,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,83f0780f8fd8d887,-1
+img_20260202_000013,img_20260202_000013.jpg,data/raw/images/img_20260202_000013.jpg,Bedroom,Window,Fair,Mid-Terrace,FAIR,included,True,87e3f8ae504a29cd,0
+img_20260202_000014,img_20260202_000014.jpg,data/raw/images/img_20260202_000014.jpg,WC,Room overview,,Town house,EXCLUDED,unrated_null,False,ca94424f630fcd67,-1
+img_20260202_000015,img_20260202_000015.jpg,data/raw/images/img_20260202_000015.jpg,Utility,Room overview,,Town house,EXCLUDED,unrated_null,False,a8ec95685f33cb90,-1
+img_20260202_000016,img_20260202_000016.jpg,data/raw/images/img_20260202_000016.jpg,Stairs,Room overview,,Town house,EXCLUDED,unrated_null,False,a6f6a560ccb883dc,-1
+img_20260202_000017,img_20260202_000017.jpg,data/raw/images/img_20260202_000017.jpg,Stairs,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,b0914d964e96cfc6,-1
+img_20260202_000018,img_20260202_000018.jpg,data/raw/images/img_20260202_000018.jpg,Living Room,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,a7e839520ed461be,-1
+img_20260202_000019,img_20260202_000019.jpg,data/raw/images/img_20260202_000019.jpg,Living Room,Wall,Newly Decorated,Flat,GOOD,included,True,ffe000d5ffc1ba00,4
+img_20260202_000020,img_20260202_000020.jpg,data/raw/images/img_20260202_000020.jpg,Bathroom/Toilet,Door,Brand New,Flat,GOOD,included,True,e19ef116d0d2d863,1
+img_20260202_000021,img_20260202_000021.jpg,data/raw/images/img_20260202_000021.jpg,Hallway,Floor,Brand New,Flat,GOOD,included,True,99c6394ae6186ce7,1
+img_20260202_000022,img_20260202_000022.jpg,data/raw/images/img_20260202_000022.jpg,Bedroom,Floor,Aged,Detached,FAIR,included,True,a8c84f0f8f95f071,4
+img_20260202_000023,img_20260202_000023.jpg,data/raw/images/img_20260202_000023.jpg,Bathroom/Toilet,Wall,Good,Flat,GOOD,included,True,c0b60f33e93ecd03,1
+img_20260202_000024,img_20260202_000024.jpg,data/raw/images/img_20260202_000024.jpg,Kitchen,Floor,Fair,Flat,FAIR,included,True,9137ace896e4adc2,1
+img_20260202_000025,img_20260202_000025.jpg,data/raw/images/img_20260202_000025.jpg,Utility,Room overview,,Detached,EXCLUDED,unrated_null,False,9996a117adf510ab,-1
+img_20260202_000026,img_20260202_000026.jpg,data/raw/images/img_20260202_000026.jpg,Hallway,Room overview,,Flat,EXCLUDED,unrated_null,False,a48799f0e39ccce4,-1
+img_20260202_000027,img_20260202_000027.jpg,data/raw/images/img_20260202_000027.jpg,En-suite,Wall,Clean,Mid-Terrace,GOOD,included,True,a77850d1d4973725,3
+img_20260202_000028,img_20260202_000028.jpg,data/raw/images/img_20260202_000028.jpg,Bedroom,Window,Dusty,Mid-Terrace,FAIR,included,True,a686562c84cce9df,2
+img_20260202_000029,img_20260202_000029.jpg,data/raw/images/img_20260202_000029.jpg,Utility,Room overview,,Detached,EXCLUDED,unrated_null,False,fa9763621c3d9c60,-1
+img_20260202_000030,img_20260202_000030.jpg,data/raw/images/img_20260202_000030.jpg,Garage,Room overview,,Semi,EXCLUDED,unrated_null,False,ac23d3da81de8b94,-1
+img_20260202_000031,img_20260202_000031.jpg,data/raw/images/img_20260202_000031.jpg,Bedroom,Window,As New,Detached,GOOD,included,True,a01f9f1dbc26392a,4
+img_20260202_000032,img_20260202_000032.jpg,data/raw/images/img_20260202_000032.jpg,Bedroom,Ceiling,Newly Decorated,Flat,GOOD,included,True,a184e33d835db749,1
+img_20260202_000033,img_20260202_000033.jpg,data/raw/images/img_20260202_000033.jpg,Bedroom,Wall,Newly Decorated,Flat,GOOD,included,True,d2a55aad36cab582,1
+img_20260202_000034,img_20260202_000034.jpg,data/raw/images/img_20260202_000034.jpg,Bathroom/Toilet,Wall,As New,Flat,GOOD,included,True,df9865622e546655,0
+img_20260202_000035,img_20260202_000035.jpg,data/raw/images/img_20260202_000035.jpg,En-suite,Room overview,,Flat,EXCLUDED,unrated_null,False,be0c2f93683f811e,-1
+img_20260202_000036,img_20260202_000036.jpg,data/raw/images/img_20260202_000036.jpg,Living Room,Floor,As New,Terrace,GOOD,included,True,fe1d4e4a4c5e4e42,3
+img_20260202_000037,img_20260202_000037.jpg,data/raw/images/img_20260202_000037.jpg,Kitchen,Room overview,,Terrace,EXCLUDED,unrated_null,False,ee5a823454a5ed53,-1
+img_20260202_000038,img_20260202_000038.jpg,data/raw/images/img_20260202_000038.jpg,,Front elevation,,Detached,EXCLUDED,unrated_null,False,fcb88f8456ea2435,-1
+img_20260202_000039,img_20260202_000039.jpg,data/raw/images/img_20260202_000039.jpg,Cellar/Basement,Floor,Dusty,Detached,FAIR,included,True,a4361389c98e6fd3,2
+img_20260202_000040,img_20260202_000040.jpg,data/raw/images/img_20260202_000040.jpg,Cellar/Basement,Room overview,,Detached,EXCLUDED,unrated_null,False,afe889793162558e,-1
+img_20260202_000041,img_20260202_000041.jpg,data/raw/images/img_20260202_000041.jpg,,Front elevation,,Semi,EXCLUDED,unrated_null,False,a5adf894a1cad863,-1
+img_20260202_000042,img_20260202_000042.jpg,data/raw/images/img_20260202_000042.jpg,Dining Room,Room overview,,Detached,EXCLUDED,unrated_null,False,b2d7692895a18e6d,-1
+img_20260202_000043,img_20260202_000043.jpg,data/raw/images/img_20260202_000043.jpg,Hallway,Door,Good,Flat,GOOD,included,True,81f8c4ec3363cecc,3
+img_20260202_000044,img_20260202_000044.jpg,data/raw/images/img_20260202_000044.jpg,Hallway,Door,Good,Flat,GOOD,included,True,df8760dc0f05f0f0,3
+img_20260202_000045,img_20260202_000045.jpg,data/raw/images/img_20260202_000045.jpg,Porch,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,f0dd2f228e668e26,-1
+img_20260202_000046,img_20260202_000046.jpg,data/raw/images/img_20260202_000046.jpg,Bedroom,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,f49678494b6b4b89,-1
+img_20260202_000047,img_20260202_000047.jpg,data/raw/images/img_20260202_000047.jpg,Reception Room,Wall,Poor,Mid-Terrace,POOR,included,True,cc8f82b0f4b7cd81,0
+img_20260202_000048,img_20260202_000048.jpg,data/raw/images/img_20260202_000048.jpg,Garden and Outdoors,Room overview,,Detached,EXCLUDED,unrated_null,False,d1d0d497b5270756,-1
+img_20260202_000049,img_20260202_000049.jpg,data/raw/images/img_20260202_000049.jpg,Bedroom,Floor,Brand New,End Terrace,GOOD,included,True,a4ded4e54b0a7835,0
+img_20260202_000050,img_20260202_000050.jpg,data/raw/images/img_20260202_000050.jpg,Stairs,Ceiling,Good,Flat,GOOD,included,True,ad92d6a5a95256d2,0
+img_20260202_000051,img_20260202_000051.jpg,data/raw/images/img_20260202_000051.jpg,Hallway,Door,Good,End Terrace,GOOD,included,True,f89caf626760b322,0
+img_20260202_000052,img_20260202_000052.jpg,data/raw/images/img_20260202_000052.jpg,WC,Room overview,,End Terrace,EXCLUDED,unrated_null,False,f896869926c3d536,-1
+img_20260202_000053,img_20260202_000053.jpg,data/raw/images/img_20260202_000053.jpg,Porch,Room overview,,Flat,EXCLUDED,unrated_null,False,b3cc27a38ee6068b,-1
+img_20260202_000054,img_20260202_000054.jpg,data/raw/images/img_20260202_000054.jpg,,Front elevation,,Detached,EXCLUDED,unrated_null,False,c1c69ad594b6e1e1,-1
+img_20260202_000055,img_20260202_000055.jpg,data/raw/images/img_20260202_000055.jpg,Conservatory,Room overview,,Detached,EXCLUDED,unrated_null,False,9333e89c3f6b091c,-1
+img_20260202_000056,img_20260202_000056.jpg,data/raw/images/img_20260202_000056.jpg,Bedroom,Room overview,,Detached,EXCLUDED,unrated_null,False,fcb7173a9d942824,-1
+img_20260202_000057,img_20260202_000057.jpg,data/raw/images/img_20260202_000057.jpg,Kitchen,Ceiling,Good,Mid-Terrace,GOOD,included,True,8936d9c63d52ad52,0
+img_20260203_000001,img_20260203_000001.jpg,data/raw/images/img_20260203_000001.jpg,Hallway,Floor,Fair,Flat,FAIR,included,True,912969e9cd8d99b1,1
+img_20260203_000002,img_20260203_000002.jpg,data/raw/images/img_20260203_000002.jpg,Bedroom,Room overview,,Flat,EXCLUDED,unrated_null,False,832ad1977ca5d68a,-1
+img_20260203_000003,img_20260203_000003.jpg,data/raw/images/img_20260203_000003.jpg,Dining Room,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,9295edaa32710d7c,-1
+img_20260203_000004,img_20260203_000004.jpg,data/raw/images/img_20260203_000004.jpg,Kitchen,Fixture,Good,Town house,GOOD,included,True,ef0127b5f454d612,4
+img_20260203_000005,img_20260203_000005.jpg,data/raw/images/img_20260203_000005.jpg,Bedroom,Floor,Good,Mid-Terrace,GOOD,included,True,fecf00d501ba11dd,1
+img_20260203_000006,img_20260203_000006.jpg,data/raw/images/img_20260203_000006.jpg,Dining Room,Room overview,,Semi,EXCLUDED,unrated_null,False,d239c42c97c836d7,-1
+img_20260203_000007,img_20260203_000007.jpg,data/raw/images/img_20260203_000007.jpg,Hallway,Room overview,,Detached,EXCLUDED,unrated_null,False,dd8738203773983b,-1
+img_20260203_000008,img_20260203_000008.jpg,data/raw/images/img_20260203_000008.jpg,Porch,Floor,Dusty,Detached,FAIR,included,True,ea9e17d51fc70070,4
+img_20260203_000009,img_20260203_000009.jpg,data/raw/images/img_20260203_000009.jpg,Kitchen,Room overview,,Detached,EXCLUDED,unrated_null,False,a8ef97649e906722,-1
+img_20260203_000010,img_20260203_000010.jpg,data/raw/images/img_20260203_000010.jpg,Conservatory,Room overview,,Detached,EXCLUDED,unrated_null,False,9541baac8ef28db8,-1
+img_20260203_000011,img_20260203_000011.jpg,data/raw/images/img_20260203_000011.jpg,Living Room,Window,Good,Flat,GOOD,included,True,8125feba728735e0,0
+img_20260203_000012,img_20260203_000012.jpg,data/raw/images/img_20260203_000012.jpg,Kitchen,Kitchen appliance,Fair,Flat,FAIR,included,True,922881df7f40dc3e,1
+img_20260203_000013,img_20260203_000013.jpg,data/raw/images/img_20260203_000013.jpg,,Front elevation,,Semi,EXCLUDED,unrated_null,False,f3f38c9c1262652d,-1
+img_20260203_000014,img_20260203_000014.jpg,data/raw/images/img_20260203_000014.jpg,Bedroom,Floor,Good,Mid-Terrace,GOOD,included,True,e98552cad6dad494,4
+img_20260203_000015,img_20260203_000015.jpg,data/raw/images/img_20260203_000015.jpg,Dining Room,Floor,Fair,Semi,FAIR,included,True,8303c3c7c7c1d9d9,3
+img_20260203_000016,img_20260203_000016.jpg,data/raw/images/img_20260203_000016.jpg,Bedroom,Ceiling,Good,Mid-Terrace,GOOD,included,True,fed73e4bb00ca04a,2
+img_20260203_000017,img_20260203_000017.jpg,data/raw/images/img_20260203_000017.jpg,WC,Room overview,,Detached,EXCLUDED,unrated_null,False,8f842a979e70836f,-1
+img_20260203_000018,img_20260203_000018.jpg,data/raw/images/img_20260203_000018.jpg,Living Room,Room overview,,Detached,EXCLUDED,unrated_null,False,d58566e887d5ccc1,-1
+img_20260203_000019,img_20260203_000019.jpg,data/raw/images/img_20260203_000019.jpg,Stairs,Room overview,,Detached,EXCLUDED,unrated_null,False,f9861e7197892276,-1
+img_20260203_000020,img_20260203_000020.jpg,data/raw/images/img_20260203_000020.jpg,Dining Room,Room overview,,Terrace,EXCLUDED,unrated_null,False,c08b6d38c73cf827,-1
+img_20260203_000021,img_20260203_000021.jpg,data/raw/images/img_20260203_000021.jpg,Cellar/Basement,Room overview,,Terrace,EXCLUDED,unrated_null,False,a2da181676871fe3,-1
+img_20260203_000022,img_20260203_000022.jpg,data/raw/images/img_20260203_000022.jpg,Kitchen,Floor,Newly Decorated,,GOOD,included,True,e5ed8d137972428c,3
+img_20260203_000023,img_20260203_000023.jpg,data/raw/images/img_20260203_000023.jpg,Dining Room,Floor,Good,Semi,GOOD,included,True,aca8d9d9c8b195d2,3
+img_20260203_000024,img_20260203_000024.jpg,data/raw/images/img_20260203_000024.jpg,Hallway,Room overview,,Town house,EXCLUDED,unrated_null,False,f6d4197966217127,-1
+img_20260203_000025,img_20260203_000025.jpg,data/raw/images/img_20260203_000025.jpg,Porch,Door,Aged,End Terrace,FAIR,included,True,9f836ad03cc1e3e1,2
+img_20260203_000026,img_20260203_000026.jpg,data/raw/images/img_20260203_000026.jpg,Bedroom,Wall,See Notes,End Terrace,EXCLUDED,excluded_label: See Notes,False,95c361dc68cc7ba4,-1
+img_20260203_000027,img_20260203_000027.jpg,data/raw/images/img_20260203_000027.jpg,Kitchen,Kitchen appliance,Brand New,Mid-Terrace,GOOD,included,True,ad80d27a6c74d27a,1
+img_20260203_000028,img_20260203_000028.jpg,data/raw/images/img_20260203_000028.jpg,Landing,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,96f568cdcfc0c2d0,-1
+img_20260203_000029,img_20260203_000029.jpg,data/raw/images/img_20260203_000029.jpg,Attic,Door,Brand New,,GOOD,included,True,f89e45aa552b9887,0
+img_20260203_000030,img_20260203_000030.jpg,data/raw/images/img_20260203_000030.jpg,Bedroom,Room overview,,Flat,EXCLUDED,unrated_null,False,a3d41c86c6f6e60e,-1
+img_20260203_000031,img_20260203_000031.jpg,data/raw/images/img_20260203_000031.jpg,,Front elevation,,End Terrace,EXCLUDED,unrated_null,False,83bbb9c5b06d3c18,-1
+img_20260203_000032,img_20260203_000032.jpg,data/raw/images/img_20260203_000032.jpg,Cellar/Basement,Room overview,,End Terrace,EXCLUDED,unrated_null,False,f3498c27f1ac34b8,-1
+img_20260203_000033,img_20260203_000033.jpg,data/raw/images/img_20260203_000033.jpg,Conservatory,Room overview,,Detached,EXCLUDED,unrated_null,False,99a6c31ba5475ba1,-1
+img_20260203_000034,img_20260203_000034.jpg,data/raw/images/img_20260203_000034.jpg,Stairs,Room overview,,Detached,EXCLUDED,unrated_null,False,b3c37ec0cda0de30,-1
+img_20260203_000035,img_20260203_000035.jpg,data/raw/images/img_20260203_000035.jpg,Bedroom,Wall,Good,Detached,GOOD,included,True,b16e19c23e05f617,2
+img_20260203_000036,img_20260203_000036.jpg,data/raw/images/img_20260203_000036.jpg,,Front elevation,,Terrace,EXCLUDED,unrated_null,False,ddd0f481c9b6868e,-1
+img_20260203_000037,img_20260203_000037.jpg,data/raw/images/img_20260203_000037.jpg,Utility,Room overview,,Terrace,EXCLUDED,unrated_null,False,ba94cd65b209e699,-1
+img_20260203_000038,img_20260203_000038.jpg,data/raw/images/img_20260203_000038.jpg,Cellar/Basement,Room overview,,Terrace,EXCLUDED,unrated_null,False,88c0563f375236b7,-1
+img_20260203_000039,img_20260203_000039.jpg,data/raw/images/img_20260203_000039.jpg,Bathroom/Toilet,Ceiling,Brand New,Flat,GOOD,included,True,af407f8856a52b9a,2
+img_20260203_000040,img_20260203_000040.jpg,data/raw/images/img_20260203_000040.jpg,Kitchen,Floor,Newly Decorated,Flat,GOOD,included,True,953ff0a1872e9cd0,0
+img_20260203_000041,img_20260203_000041.jpg,data/raw/images/img_20260203_000041.jpg,Landing,Room overview,,Detached,EXCLUDED,unrated_null,False,96803dc13ea9d56e,-1
+img_20260203_000042,img_20260203_000042.jpg,data/raw/images/img_20260203_000042.jpg,Hallway,Floor,Used,Terrace,FAIR,included,True,fa79721737834382,2
+img_20260203_000043,img_20260203_000043.jpg,data/raw/images/img_20260203_000043.jpg,Landing,Room overview,,Terrace,EXCLUDED,unrated_null,False,b7c12438783ecbc6,-1
+img_20260203_000044,img_20260203_000044.jpg,data/raw/images/img_20260203_000044.jpg,Stairs,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,e19219fc4acdd98c,-1
+img_20260203_000045,img_20260203_000045.jpg,data/raw/images/img_20260203_000045.jpg,Bedroom,Floor,Good,Mid-Terrace,GOOD,included,True,fbc08f9c90bb4166,4
+img_20260204_000001,img_20260204_000001.jpg,data/raw/images/img_20260204_000001.jpg,WC,Room overview,,Flat,EXCLUDED,unrated_null,False,ab681e619e6e1be0,-1
+img_20260204_000002,img_20260204_000002.jpg,data/raw/images/img_20260204_000002.jpg,Kitchen,Door,Fair,End Terrace,FAIR,included,True,907e97a56ade15a0,3
+img_20260204_000003,img_20260204_000003.jpg,data/raw/images/img_20260204_000003.jpg,Living Room,Window,Fair,End Terrace,FAIR,included,True,84644fcf1838b1bf,1
+img_20260204_000004,img_20260204_000004.jpg,data/raw/images/img_20260204_000004.jpg,Kitchen,Room overview,,Semi,EXCLUDED,unrated_null,False,bfc74299462fd083,-1
+img_20260204_000005,img_20260204_000005.jpg,data/raw/images/img_20260204_000005.jpg,Bathroom/Toilet,Room overview,,Semi,EXCLUDED,unrated_null,False,89dc67231e6197d2,-1
+img_20260204_000006,img_20260204_000006.jpg,data/raw/images/img_20260204_000006.jpg,Conservatory,Ceiling,Poor,Detached,POOR,included,True,a673195e7b866138,1
+img_20260204_000007,img_20260204_000007.jpg,data/raw/images/img_20260204_000007.jpg,Conservatory,Room overview,,Detached,EXCLUDED,unrated_null,False,d6bce163396233a4,-1
+img_20260204_000008,img_20260204_000008.jpg,data/raw/images/img_20260204_000008.jpg,Bedroom,Ceiling,Fair,Detached,FAIR,included,True,d52ad52a15f40af5,4
+img_20260204_000009,img_20260204_000009.jpg,data/raw/images/img_20260204_000009.jpg,Porch,Room overview,,Terrace,EXCLUDED,unrated_null,False,aac63cfacf602166,-1
+img_20260204_000010,img_20260204_000010.jpg,data/raw/images/img_20260204_000010.jpg,Garden and Outdoors,Room overview,,Terrace,EXCLUDED,unrated_null,False,d48e85a79cce8751,-1
+img_20260204_000011,img_20260204_000011.jpg,data/raw/images/img_20260204_000011.jpg,Kitchen,Door,Good,Flat,GOOD,included,True,ef9054ef10e710ea,4
+img_20260204_000012,img_20260204_000012.jpg,data/raw/images/img_20260204_000012.jpg,Living Room,Floor,Fair,Flat,FAIR,included,True,80aaadf47071f2f2,2
+img_20260204_000013,img_20260204_000013.jpg,data/raw/images/img_20260204_000013.jpg,Bedroom,Room overview,,Semi,EXCLUDED,unrated_null,False,ff807f6087787086,-1
+img_20260204_000014,img_20260204_000014.jpg,data/raw/images/img_20260204_000014.jpg,Hallway,Door,Good,Detached,GOOD,included,True,e7e02ec034cf32c7,2
+img_20260204_000015,img_20260204_000015.jpg,data/raw/images/img_20260204_000015.jpg,Living Room,Door,Fair,Detached,FAIR,included,True,b81cf61f3306c3c3,0
+img_20260204_000016,img_20260204_000016.jpg,data/raw/images/img_20260204_000016.jpg,Conservatory,Ceiling,Aged,Detached,FAIR,included,True,86f6a1d6e5d24706,4
+img_20260204_000017,img_20260204_000017.jpg,data/raw/images/img_20260204_000017.jpg,Conservatory,Room overview,,Detached,EXCLUDED,unrated_null,False,94b62a2f2f96929a,-1
+img_20260204_000018,img_20260204_000018.jpg,data/raw/images/img_20260204_000018.jpg,Bedroom,Ceiling,Newly Decorated,Detached,GOOD,included,True,8bc57a6790390fc6,0
+img_20260204_000019,img_20260204_000019.jpg,data/raw/images/img_20260204_000019.jpg,Hallway,Room overview,,Flat,EXCLUDED,unrated_null,False,a595687bdac8a632,-1
+img_20260204_000020,img_20260204_000020.jpg,data/raw/images/img_20260204_000020.jpg,Bedroom,Ceiling,Good,Mid-Terrace,GOOD,included,True,f9c60c718e7833c6,4
+img_20260204_000021,img_20260204_000021.jpg,data/raw/images/img_20260204_000021.jpg,Kitchen,Floor,Fair,Terrace,FAIR,included,True,a96bd296a4595595,0
+img_20260204_000022,img_20260204_000022.jpg,data/raw/images/img_20260204_000022.jpg,Kitchen,Window,Fair,Mid-Terrace,FAIR,included,True,877b09d04f61bf81,0
+img_20260204_000023,img_20260204_000023.jpg,data/raw/images/img_20260204_000023.jpg,Utility,Room overview,,Flat,EXCLUDED,unrated_null,False,c849ca3ed3a53c63,-1
+img_20260204_000024,img_20260204_000024.jpg,data/raw/images/img_20260204_000024.jpg,Bathroom/Toilet,Door,Good,Flat,GOOD,included,True,a5fcdfe7c023c021,1
+img_20260204_000025,img_20260204_000025.jpg,data/raw/images/img_20260204_000025.jpg,Kitchen,Kitchen appliance,As New,Semi,GOOD,included,True,a5f1a58df29cd830,0
+img_20260204_000026,img_20260204_000026.jpg,data/raw/images/img_20260204_000026.jpg,Cellar/Basement,Floor,As New,Terrace,GOOD,included,True,bdd20b70672ea135,2
+img_20260204_000027,img_20260204_000027.jpg,data/raw/images/img_20260204_000027.jpg,Kitchen,Kitchen appliance,Fair,Detached,FAIR,included,True,f21d4e85699eb270,1
+img_20260204_000028,img_20260204_000028.jpg,data/raw/images/img_20260204_000028.jpg,Porch,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,b0df1f308330cf3a,-1
+img_20260204_000029,img_20260204_000029.jpg,data/raw/images/img_20260204_000029.jpg,Cellar/Basement,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,f2d4b42d6aca84ab,-1
+img_20260204_000030,img_20260204_000030.jpg,data/raw/images/img_20260204_000030.jpg,Hallway,Room overview,,Flat,EXCLUDED,unrated_null,False,8e8a23a09a7a39df,-1
+img_20260204_000031,img_20260204_000031.jpg,data/raw/images/img_20260204_000031.jpg,Bathroom/Toilet,Room overview,,Flat,EXCLUDED,unrated_null,False,e497184a4ae92fad,-1
+img_20260204_000032,img_20260204_000032.jpg,data/raw/images/img_20260204_000032.jpg,Kitchen,Door,Good,Flat,GOOD,included,True,a8d752a552953ad5,2
+img_20260204_000033,img_20260204_000033.jpg,data/raw/images/img_20260204_000033.jpg,Hallway,Floor,Good,Flat,GOOD,included,True,fe8e8ae77f4108c0,3
+img_20260204_000034,img_20260204_000034.jpg,data/raw/images/img_20260204_000034.jpg,Hallway,Wall,Good,Flat,GOOD,included,True,97a836c9867835ea,1
+img_20260204_000035,img_20260204_000035.jpg,data/raw/images/img_20260204_000035.jpg,Living Room,Door,As New,Mid-Terrace,GOOD,included,True,a6ef09521d727d50,1
+img_20260204_000036,img_20260204_000036.jpg,data/raw/images/img_20260204_000036.jpg,Attic,Ceiling,Good,Terrace,GOOD,included,True,aac5fa2a552aaa55,2
+img_20260204_000037,img_20260204_000037.jpg,data/raw/images/img_20260204_000037.jpg,Attic,Room overview,,Terrace,EXCLUDED,unrated_null,False,c921ced2c3cdb586,-1
+img_20260204_000038,img_20260204_000038.jpg,data/raw/images/img_20260204_000038.jpg,Hallway,Floor,Clean,Flat,GOOD,included,True,f8f0361668f80d57,2
+img_20260204_000039,img_20260204_000039.jpg,data/raw/images/img_20260204_000039.jpg,Cellar/Basement,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,ae85cf7583ccc03c,-1
+img_20260204_000040,img_20260204_000040.jpg,data/raw/images/img_20260204_000040.jpg,Living Room,Room overview,,Flat,EXCLUDED,unrated_null,False,b6cf3970869429cb,-1
+img_20260204_000041,img_20260204_000041.jpg,data/raw/images/img_20260204_000041.jpg,Bathroom/Toilet,Door,As New,Flat,GOOD,included,True,d25296a57bc8c7b0,0
+img_20260204_000042,img_20260204_000042.jpg,data/raw/images/img_20260204_000042.jpg,Landing,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,e5cb3816d8c53cd1,-1
+img_20260204_000043,img_20260204_000043.jpg,data/raw/images/img_20260204_000043.jpg,Living Room,Room overview,,Flat,EXCLUDED,unrated_null,False,e78359fe1e08067a,-1
+img_20260204_000044,img_20260204_000044.jpg,data/raw/images/img_20260204_000044.jpg,Living Room,Floor,Fair,Flat,FAIR,included,True,ad5fd08080817f7f,2
+img_20260204_000045,img_20260204_000045.jpg,data/raw/images/img_20260204_000045.jpg,Porch,Room overview,,Detached,EXCLUDED,unrated_null,False,a1c92a22dedddc83,-1
+img_20260204_000046,img_20260204_000046.jpg,data/raw/images/img_20260204_000046.jpg,Landing,Room overview,,Terrace,EXCLUDED,unrated_null,False,ea95c06e31c73867,-1
+img_20260204_000047,img_20260204_000047.jpg,data/raw/images/img_20260204_000047.jpg,Stairs,Floor,Fair,End Terrace,FAIR,included,True,bae8c78ec7067223,0
+img_20260204_000048,img_20260204_000048.jpg,data/raw/images/img_20260204_000048.jpg,Garden and Outdoors,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,e263f8d8083d3c9e,-1
+img_20260205_000001,img_20260205_000001.jpg,data/raw/images/img_20260205_000001.jpg,Garage,Room overview,,Detached,EXCLUDED,unrated_null,False,ff1f0055058057fe,-1
+img_20260205_000002,img_20260205_000002.jpg,data/raw/images/img_20260205_000002.jpg,Stairs,Wall,As New,Detached,GOOD,included,True,9fc70184f08cf6f8,1
+img_20260205_000003,img_20260205_000003.jpg,data/raw/images/img_20260205_000003.jpg,Living Room,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,c3bf3d42db34248a,-1
+img_20260205_000004,img_20260205_000004.jpg,data/raw/images/img_20260205_000004.jpg,Kitchen,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,b5c26e9b4b654e90,-1
+img_20260205_000005,img_20260205_000005.jpg,data/raw/images/img_20260205_000005.jpg,Kitchen,Floor,Fair,Flat,FAIR,included,True,9e1c8f870b234e4f,0
+img_20260205_000006,img_20260205_000006.jpg,data/raw/images/img_20260205_000006.jpg,Bathroom/Toilet,Fixture,Good,Semi,GOOD,included,True,83de2fc2b40bd0ae,4
+img_20260205_000007,img_20260205_000007.jpg,data/raw/images/img_20260205_000007.jpg,Kitchen,Kitchen appliance,Good,Flat,GOOD,included,True,e36bc260b91ce791,0
+img_20260205_000008,img_20260205_000008.jpg,data/raw/images/img_20260205_000008.jpg,Conservatory,Room overview,,Semi,EXCLUDED,unrated_null,False,bda4b3193d0896e6,-1
+img_20260205_000009,img_20260205_000009.jpg,data/raw/images/img_20260205_000009.jpg,WC,Room overview,,Detached,EXCLUDED,unrated_null,False,ea989252496db6b5,-1
+img_20260205_000010,img_20260205_000010.jpg,data/raw/images/img_20260205_000010.jpg,Conservatory,Room overview,,Detached,EXCLUDED,unrated_null,False,807c93707dd1e6a5,-1
+img_20260205_000011,img_20260205_000011.jpg,data/raw/images/img_20260205_000011.jpg,Living Room,Room overview,,Flat,EXCLUDED,unrated_null,False,ab9568fa10cd33c6,-1
+img_20260205_000012,img_20260205_000012.jpg,data/raw/images/img_20260205_000012.jpg,Attic,Room overview,,Detached,EXCLUDED,unrated_null,False,cb2df74d745a4150,-1
+img_20260205_000013,img_20260205_000013.jpg,data/raw/images/img_20260205_000013.jpg,Kitchen,Kitchen appliance,Used,Flat,FAIR,included,True,c83ab52097b5bc93,1
+img_20260205_000014,img_20260205_000014.jpg,data/raw/images/img_20260205_000014.jpg,Bathroom/Toilet,Ceiling,Fair,Flat,FAIR,included,True,e7cfe870c081a70f,1
+img_20260205_000015,img_20260205_000015.jpg,data/raw/images/img_20260205_000015.jpg,Hallway,Door,Aged,Flat,FAIR,included,True,84ad8b53394ecd33,4
+img_20260205_000016,img_20260205_000016.jpg,data/raw/images/img_20260205_000016.jpg,Bathroom/Toilet,Floor,Fair,Flat,FAIR,included,True,a5e29f69c632619c,0
+img_20260205_000017,img_20260205_000017.jpg,data/raw/images/img_20260205_000017.jpg,Bedroom,Room overview,,Semi,EXCLUDED,unrated_null,False,daaa1575fac2452a,-1
+img_20260205_000018,img_20260205_000018.jpg,data/raw/images/img_20260205_000018.jpg,Garage,Room overview,,Semi,EXCLUDED,unrated_null,False,9a2561da0ddab497,-1
+img_20260205_000019,img_20260205_000019.jpg,data/raw/images/img_20260205_000019.jpg,Living Room,Floor,Dusty,Terrace,FAIR,included,True,ad5225aed2c4e5ca,3
+img_20260205_000020,img_20260205_000020.jpg,data/raw/images/img_20260205_000020.jpg,Dining Room,Floor,Fair,Semi,FAIR,included,True,82ca6a2a2a3d1f9f,4
+img_20260205_000021,img_20260205_000021.jpg,data/raw/images/img_20260205_000021.jpg,Bathroom/Toilet,Ceiling,Dusty,Semi,FAIR,included,True,cfb122ce39c79063,2
+img_20260205_000022,img_20260205_000022.jpg,data/raw/images/img_20260205_000022.jpg,Garage,Room overview,,Semi,EXCLUDED,unrated_null,False,d53b6a552f2285aa,-1
+img_20260205_000023,img_20260205_000023.jpg,data/raw/images/img_20260205_000023.jpg,Bedroom,Door,Good,Semi,GOOD,included,True,c17a35ca35ca35ca,3
+img_20260205_000024,img_20260205_000024.jpg,data/raw/images/img_20260205_000024.jpg,Living Room,Room overview,,Semi,EXCLUDED,unrated_null,False,c6b8d10d35c67c39,-1
+img_20260205_000025,img_20260205_000025.jpg,data/raw/images/img_20260205_000025.jpg,Reception Room,Room overview,,Semi,EXCLUDED,unrated_null,False,81b9d69cb4c328f6,-1
+img_20260205_000026,img_20260205_000026.jpg,data/raw/images/img_20260205_000026.jpg,Garage,Room overview,,Semi,EXCLUDED,unrated_null,False,cc6d9612afd48a2d,-1
+img_20260205_000027,img_20260205_000027.jpg,data/raw/images/img_20260205_000027.jpg,Hallway,Room overview,,Flat,EXCLUDED,unrated_null,False,cd2272de8d9d2631,-1
+img_20260205_000028,img_20260205_000028.jpg,data/raw/images/img_20260205_000028.jpg,Living Room,Floor,Fair,Flat,FAIR,included,True,e15ea04b56ed1ac5,3
+img_20260205_000029,img_20260205_000029.jpg,data/raw/images/img_20260205_000029.jpg,Bedroom,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,e8d038f19f4c619e,-1
+img_20260205_000030,img_20260205_000030.jpg,data/raw/images/img_20260205_000030.jpg,Porch,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,b49c0b32cbcadac3,-1
+img_20260205_000031,img_20260205_000031.jpg,data/raw/images/img_20260205_000031.jpg,Kitchen,Wall,Brand New,Flat,GOOD,included,True,9c631cf14f90e738,1
+img_20260205_000032,img_20260205_000032.jpg,data/raw/images/img_20260205_000032.jpg,Hallway,Room overview,,End Terrace,EXCLUDED,unrated_null,False,80872cfcfff84063,-1
+img_20260205_000033,img_20260205_000033.jpg,data/raw/images/img_20260205_000033.jpg,Garage,Room overview,,End Terrace,EXCLUDED,unrated_null,False,ecea93878dcd6228,-1
+img_20260205_000034,img_20260205_000034.jpg,data/raw/images/img_20260205_000034.jpg,Kitchen,Kitchen appliance,As New,Flat,GOOD,included,True,aad5f898327d182e,2
+img_20260205_000035,img_20260205_000035.jpg,data/raw/images/img_20260205_000035.jpg,Bedroom,Ceiling,Fair,Mid-Terrace,FAIR,included,True,d00f7a018f703f8f,1
+img_20260205_000036,img_20260205_000036.jpg,data/raw/images/img_20260205_000036.jpg,Bedroom,Ceiling,Fair,Mid-Terrace,FAIR,included,True,c5ff01fd02fc02f0,2
+img_20260205_000037,img_20260205_000037.jpg,data/raw/images/img_20260205_000037.jpg,Living Room,Room overview,,Flat,EXCLUDED,unrated_null,False,c19b1b4a9e3666ac,-1
+img_20260205_000038,img_20260205_000038.jpg,data/raw/images/img_20260205_000038.jpg,Stairs,Window,Good,Semi,GOOD,included,True,fd029ca99752a16d,2
+img_20260205_000039,img_20260205_000039.jpg,data/raw/images/img_20260205_000039.jpg,Stairs,Ceiling,Good,Semi,GOOD,included,True,eedf3c44f060381b,3
+img_20260205_000040,img_20260205_000040.jpg,data/raw/images/img_20260205_000040.jpg,Bathroom/Toilet,Wall,Good,Semi,GOOD,included,True,d52a4a9d7a837e82,1
+img_20260205_000041,img_20260205_000041.jpg,data/raw/images/img_20260205_000041.jpg,Bedroom,Door,Good,Semi,GOOD,included,True,caf5c86225fd380b,0
+img_20260205_000042,img_20260205_000042.jpg,data/raw/images/img_20260205_000042.jpg,Kitchen,Wall,Aged,Mid-Terrace,FAIR,included,True,8fc960bcc7a190af,0
+img_20260205_000043,img_20260205_000043.jpg,data/raw/images/img_20260205_000043.jpg,Kitchen,Room overview,,Terrace,EXCLUDED,unrated_null,False,80f13fb402bfa1f2,-1
+img_20260205_000044,img_20260205_000044.jpg,data/raw/images/img_20260205_000044.jpg,Garden and Outdoors,Room overview,,Terrace,EXCLUDED,unrated_null,False,9d87476e49925279,-1
+img_20260205_000045,img_20260205_000045.jpg,data/raw/images/img_20260205_000045.jpg,Kitchen,Ceiling,Poor,Detached,POOR,included,True,d5287e187d827b91,2
+img_20260205_000046,img_20260205_000046.jpg,data/raw/images/img_20260205_000046.jpg,,Front elevation,,Flat,EXCLUDED,unrated_null,False,81a5ff5031ad529b,-1
+img_20260205_000047,img_20260205_000047.jpg,data/raw/images/img_20260205_000047.jpg,Reception Room,Room overview,,Semi,EXCLUDED,unrated_null,False,c9d3323a9b1c1ee4,-1
+img_20260205_000048,img_20260205_000048.jpg,data/raw/images/img_20260205_000048.jpg,Porch,Room overview,,Terrace,EXCLUDED,unrated_null,False,948ccb33b3c93333,-1
+img_20260205_000049,img_20260205_000049.jpg,data/raw/images/img_20260205_000049.jpg,Bedroom,Room overview,,Detached,EXCLUDED,unrated_null,False,f8c547c687c68387,-1
+img_20260205_000050,img_20260205_000050.jpg,data/raw/images/img_20260205_000050.jpg,Living Room,Door,Good,Semi,GOOD,included,True,c9d993a6ac1a465d,3
+img_20260205_000051,img_20260205_000051.jpg,data/raw/images/img_20260205_000051.jpg,Bedroom,Room overview,,Detached,EXCLUDED,unrated_null,False,899d5ad712e632a5,-1
+img_20260205_000052,img_20260205_000052.jpg,data/raw/images/img_20260205_000052.jpg,Stairs,Floor,Good,Semi,GOOD,included,True,fea081df45389197,2
+img_20260205_000053,img_20260205_000053.jpg,data/raw/images/img_20260205_000053.jpg,Attic,Room overview,,Terrace,EXCLUDED,unrated_null,False,b6c42333c9fcc8cc,-1
+img_20260205_000054,img_20260205_000054.jpg,data/raw/images/img_20260205_000054.jpg,Living Room,Room overview,,Terrace,EXCLUDED,unrated_null,False,f5f44848b4b43eaa,-1
+img_20260206_000001,img_20260206_000001.jpg,data/raw/images/img_20260206_000001.jpg,,Front elevation,,Semi,EXCLUDED,unrated_null,False,aefeb99192c8cc48,-1
+img_20260206_000002,img_20260206_000002.jpg,data/raw/images/img_20260206_000002.jpg,Kitchen,Kitchen appliance,Good,Flat,GOOD,included,True,879064be406fb74e,2
+img_20260206_000003,img_20260206_000003.jpg,data/raw/images/img_20260206_000003.jpg,Utility,Room overview,,Semi,EXCLUDED,unrated_null,False,fd85266b196664c9,-1
+img_20260206_000004,img_20260206_000004.jpg,data/raw/images/img_20260206_000004.jpg,Garden and Outdoors,Room overview,,Detached,EXCLUDED,unrated_null,False,ba8de8c8e4b2b8a6,-1
+img_20260206_000005,img_20260206_000005.jpg,data/raw/images/img_20260206_000005.jpg,Bedroom,Room overview,,Flat,EXCLUDED,unrated_null,False,832dd47ea15e2a95,-1
+img_20260206_000006,img_20260206_000006.jpg,data/raw/images/img_20260206_000006.jpg,Kitchen,Door,Good,Flat,GOOD,included,True,d6ad0a7699780799,1
+img_20260206_000007,img_20260206_000007.jpg,data/raw/images/img_20260206_000007.jpg,Living Room,Floor,Good,Flat,GOOD,included,True,c22f2f2f66f0d0d0,1
+img_20260206_000008,img_20260206_000008.jpg,data/raw/images/img_20260206_000008.jpg,Bathroom/Toilet,Door,Good,Flat,GOOD,included,True,9a96652a936db11e,1
+img_20260206_000009,img_20260206_000009.jpg,data/raw/images/img_20260206_000009.jpg,Kitchen,Ceiling,Good,Flat,GOOD,included,True,add629d323e4cc2c,4
+img_20260206_000010,img_20260206_000010.jpg,data/raw/images/img_20260206_000010.jpg,Living Room,Door,Newly Decorated,Maisonette,GOOD,included,True,bf685555aa35a8a2,0
+img_20260206_000011,img_20260206_000011.jpg,data/raw/images/img_20260206_000011.jpg,WC,Room overview,,Flat,EXCLUDED,unrated_null,False,80da793e0e3996c7,-1
+img_20260206_000012,img_20260206_000012.jpg,data/raw/images/img_20260206_000012.jpg,Stairs,Room overview,,Flat,EXCLUDED,unrated_null,False,eac51e9891b591b6,-1
+img_20260206_000013,img_20260206_000013.jpg,data/raw/images/img_20260206_000013.jpg,Stairs,Floor,Fair,Terrace,FAIR,included,True,a951d44a983ebe36,3
+img_20260206_000014,img_20260206_000014.jpg,data/raw/images/img_20260206_000014.jpg,Living Room,Floor,Clean,Detached,GOOD,included,True,808020f0fcfff7c3,1
+img_20260206_000015,img_20260206_000015.jpg,data/raw/images/img_20260206_000015.jpg,WC,Room overview,,Detached,EXCLUDED,unrated_null,False,af80306c9697c9cf,-1
+img_20260206_000016,img_20260206_000016.jpg,data/raw/images/img_20260206_000016.jpg,Bedroom,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,b8f447a39233e332,-1
+img_20260206_000017,img_20260206_000017.jpg,data/raw/images/img_20260206_000017.jpg,Bathroom/Toilet,Wall,Brand New,Flat,GOOD,included,True,d3053b2b3485f17c,2
+img_20260206_000018,img_20260206_000018.jpg,data/raw/images/img_20260206_000018.jpg,Landing,Room overview,,Flat,EXCLUDED,unrated_null,False,e287109a7ce5467e,-1
+img_20260206_000019,img_20260206_000019.jpg,data/raw/images/img_20260206_000019.jpg,Landing,Floor,Fair,Flat,FAIR,included,True,b6dbc9d2a4b6102d,3
+img_20260206_000020,img_20260206_000020.jpg,data/raw/images/img_20260206_000020.jpg,WC,Room overview,,Flat,EXCLUDED,unrated_null,False,e2a4c443c2eceb9b,-1
+img_20260206_000021,img_20260206_000021.jpg,data/raw/images/img_20260206_000021.jpg,Living Room,Floor,Used,Detached,FAIR,included,True,dfc485292b7b6891,2
+img_20260206_000022,img_20260206_000022.jpg,data/raw/images/img_20260206_000022.jpg,Kitchen,Room overview,,Detached,EXCLUDED,unrated_null,False,8d85d5e848cbcbd4,-1
+img_20260206_000023,img_20260206_000023.jpg,data/raw/images/img_20260206_000023.jpg,Garden and Outdoors,Room overview,,Detached,EXCLUDED,unrated_null,False,c98987bc878fca23,-1
+img_20260206_000024,img_20260206_000024.jpg,data/raw/images/img_20260206_000024.jpg,Living Room,Room overview,,Detached,EXCLUDED,unrated_null,False,a67c19c9ee9027ac,-1
+img_20260206_000025,img_20260206_000025.jpg,data/raw/images/img_20260206_000025.jpg,Utility,Room overview,,Detached,EXCLUDED,unrated_null,False,92cc1f5accb2a475,-1
+img_20260206_000026,img_20260206_000026.jpg,data/raw/images/img_20260206_000026.jpg,Living Room,Floor,Good,Mid-Terrace,GOOD,included,True,fff77ed82000f820,2
+img_20260206_000027,img_20260206_000027.jpg,data/raw/images/img_20260206_000027.jpg,Kitchen,Ceiling,Clean,Terrace,GOOD,included,True,811d35e91bf30e72,4
+img_20260206_000028,img_20260206_000028.jpg,data/raw/images/img_20260206_000028.jpg,Hallway,Room overview,,Detached,EXCLUDED,unrated_null,False,c3186c6d3c1d9f34,-1
+img_20260206_000029,img_20260206_000029.jpg,data/raw/images/img_20260206_000029.jpg,Bedroom,Floor,Fair,,FAIR,included,True,f6a2345652cacbc5,1
+img_20260206_000030,img_20260206_000030.jpg,data/raw/images/img_20260206_000030.jpg,Bathroom/Toilet,Floor,Aged,,FAIR,included,True,9c774c81fe9e0f80,3
+img_20260206_000031,img_20260206_000031.jpg,data/raw/images/img_20260206_000031.jpg,Reception Room,Room overview,,,EXCLUDED,unrated_null,False,98ee95a78b94e889,-1
+img_20260206_000032,img_20260206_000032.jpg,data/raw/images/img_20260206_000032.jpg,Kitchen,Wall,Clean,Terrace,GOOD,included,True,9f8a533e89378855,4
+img_20260206_000033,img_20260206_000033.jpg,data/raw/images/img_20260206_000033.jpg,Kitchen,Door,Fair,Detached,FAIR,included,True,ba8234c17c977e89,4
+img_20260206_000034,img_20260206_000034.jpg,data/raw/images/img_20260206_000034.jpg,Living Room,Room overview,,Flat,EXCLUDED,unrated_null,False,9c2403638adda79f,-1
+img_20260206_000035,img_20260206_000035.jpg,data/raw/images/img_20260206_000035.jpg,Garden and Outdoors,Room overview,,End Terrace,EXCLUDED,unrated_null,False,d8c89ad815f686ba,-1
+img_20260206_000036,img_20260206_000036.jpg,data/raw/images/img_20260206_000036.jpg,Stairs,Room overview,,End Terrace,EXCLUDED,unrated_null,False,e96e5cd19e319a60,-1
+img_20260206_000037,img_20260206_000037.jpg,data/raw/images/img_20260206_000037.jpg,Kitchen,Door,Good,Terrace,GOOD,included,True,a4fe1f21389699c9,0
+img_20260206_000038,img_20260206_000038.jpg,data/raw/images/img_20260206_000038.jpg,Living Room,Floor,Good,Terrace,GOOD,included,True,bcfc8383dada5310,0
+img_20260206_000039,img_20260206_000039.jpg,data/raw/images/img_20260206_000039.jpg,Bedroom,Floor,Good,Flat,GOOD,included,True,99f97ab5c28a050f,3
+img_20260206_000040,img_20260206_000040.jpg,data/raw/images/img_20260206_000040.jpg,Stairs,Floor,Poor,Detached,POOR,included,True,eae555921d2b62c5,0
+img_20260206_000041,img_20260206_000041.jpg,data/raw/images/img_20260206_000041.jpg,Porch,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,88d15759642e3e6e,-1
+img_20260206_000042,img_20260206_000042.jpg,data/raw/images/img_20260206_000042.jpg,Bedroom,Door,Good,Mid-Terrace,GOOD,included,True,ea8140fe07f817f8,0
+img_20260206_000043,img_20260206_000043.jpg,data/raw/images/img_20260206_000043.jpg,Bedroom,Room overview,,Detached,EXCLUDED,unrated_null,False,c0a03c1f9d37871f,-1
+img_20260206_000044,img_20260206_000044.jpg,data/raw/images/img_20260206_000044.jpg,Bedroom,Room overview,,Detached,EXCLUDED,unrated_null,False,f08d0af5c82df24b,-1
+img_20260206_000045,img_20260206_000045.jpg,data/raw/images/img_20260206_000045.jpg,Living Room,Room overview,,Detached,EXCLUDED,unrated_null,False,e625595aa4c66b35,-1
+img_20260206_000046,img_20260206_000046.jpg,data/raw/images/img_20260206_000046.jpg,Living Room,Floor,Good,Terrace,GOOD,included,True,9de94b9712346dc1,0
+img_20260206_000047,img_20260206_000047.jpg,data/raw/images/img_20260206_000047.jpg,Living Room,Room overview,,Terrace,EXCLUDED,unrated_null,False,97e62c996ad00dd9,-1
+img_20260206_000048,img_20260206_000048.jpg,data/raw/images/img_20260206_000048.jpg,Bedroom,Room overview,,Detached,EXCLUDED,unrated_null,False,d5b56a9a25c9364c,-1
+img_20260206_000049,img_20260206_000049.jpg,data/raw/images/img_20260206_000049.jpg,Living Room,Room overview,,Detached,EXCLUDED,unrated_null,False,ceb68d46eacc9170,-1
+img_20260206_000050,img_20260206_000050.jpg,data/raw/images/img_20260206_000050.jpg,Bathroom/Toilet,Door,Fair,Mid-Terrace,FAIR,included,True,f42b16d5ea6f1580,3
+img_20260206_000051,img_20260206_000051.jpg,data/raw/images/img_20260206_000051.jpg,Kitchen,Floor,Good,Flat,GOOD,included,True,9fbf3eb030d0c582,1
+img_20260206_000052,img_20260206_000052.jpg,data/raw/images/img_20260206_000052.jpg,Bedroom,Wall,Good,Flat,GOOD,included,True,a25e6897698658e7,2
+img_20260206_000053,img_20260206_000053.jpg,data/raw/images/img_20260206_000053.jpg,Bathroom/Toilet,Door,Good,Flat,GOOD,included,True,ca948de583f1e9b0,4
+img_20260206_000054,img_20260206_000054.jpg,data/raw/images/img_20260206_000054.jpg,Bedroom,Door,Good,Flat,GOOD,included,True,946740b64b973f16,0
+img_20260206_000055,img_20260206_000055.jpg,data/raw/images/img_20260206_000055.jpg,En-suite,Room overview,,Flat,EXCLUDED,unrated_null,False,f650256f9b26c88b,-1
+img_20260206_000056,img_20260206_000056.jpg,data/raw/images/img_20260206_000056.jpg,Bathroom/Toilet,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,ecdb24c219649c7b,-1
+img_20260206_000057,img_20260206_000057.jpg,data/raw/images/img_20260206_000057.jpg,Bathroom/Toilet,Room overview,,End Terrace,EXCLUDED,unrated_null,False,86857b81e344ddea,-1
+img_20260207_000001,img_20260207_000001.jpg,data/raw/images/img_20260207_000001.jpg,Kitchen,Fixture,Good,Flat,GOOD,included,True,927b0dd31ee01fc1,3
+img_20260207_000002,img_20260207_000002.jpg,data/raw/images/img_20260207_000002.jpg,Bedroom,Floor,Aged,Terrace,FAIR,included,True,a8b5d2dad2dac3c0,1
+img_20260207_000003,img_20260207_000003.jpg,data/raw/images/img_20260207_000003.jpg,Bathroom/Toilet,Room overview,,Terrace,EXCLUDED,unrated_null,False,e9c07b739e6b1190,-1
+img_20260207_000004,img_20260207_000004.jpg,data/raw/images/img_20260207_000004.jpg,Living Room,Ceiling,Good,Flat,GOOD,included,True,b295fe83c61c0ee1,4
+img_20260207_000005,img_20260207_000005.jpg,data/raw/images/img_20260207_000005.jpg,Porch,Room overview,,Detached,EXCLUDED,unrated_null,False,e0c2308f8cef9ab9,-1
+img_20260207_000006,img_20260207_000006.jpg,data/raw/images/img_20260207_000006.jpg,Kitchen,Floor,Good,Flat,GOOD,included,True,a8bdd1dad7830383,4
+img_20260207_000007,img_20260207_000007.jpg,data/raw/images/img_20260207_000007.jpg,Bathroom/Toilet,Fixture,Good,Mid-Terrace,GOOD,included,True,bed184c7872e70b1,2
+img_20260207_000008,img_20260207_000008.jpg,data/raw/images/img_20260207_000008.jpg,Reception Room,Room overview,,Terrace,EXCLUDED,unrated_null,False,80823fadcaf63559,-1
+img_20260207_000009,img_20260207_000009.jpg,data/raw/images/img_20260207_000009.jpg,En-suite,Room overview,,Flat,EXCLUDED,unrated_null,False,9cf07a1f328e618e,-1
+img_20260207_000010,img_20260207_000010.jpg,data/raw/images/img_20260207_000010.jpg,Stairs,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,8097e8217ad9dab3,-1
+img_20260207_000011,img_20260207_000011.jpg,data/raw/images/img_20260207_000011.jpg,Bedroom,Room overview,,Flat,EXCLUDED,unrated_null,False,843f9a2fa49d29c6,-1
+img_20260207_000012,img_20260207_000012.jpg,data/raw/images/img_20260207_000012.jpg,Kitchen,Door,Aged,Flat,FAIR,included,True,d49587179f131b1c,0
+img_20260207_000013,img_20260207_000013.jpg,data/raw/images/img_20260207_000013.jpg,Conservatory,Room overview,,Semi,EXCLUDED,unrated_null,False,906f274f6ef045e0,-1
+img_20260207_000014,img_20260207_000014.jpg,data/raw/images/img_20260207_000014.jpg,Bedroom,Floor,Good,Semi,GOOD,included,True,c39f83c17c607497,1
+img_20260207_000015,img_20260207_000015.jpg,data/raw/images/img_20260207_000015.jpg,Bedroom,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,aad04876e3bccc63,-1
+img_20260207_000016,img_20260207_000016.jpg,data/raw/images/img_20260207_000016.jpg,,Front elevation,,Detached,EXCLUDED,unrated_null,False,bfe1f08842639d4d,-1
+img_20260208_000001,img_20260208_000001.jpg,data/raw/images/img_20260208_000001.jpg,Kitchen,Floor,See Notes,Flat,EXCLUDED,excluded_label: See Notes,False,abd450a527698a9f,-1
+img_20260208_000002,img_20260208_000002.jpg,data/raw/images/img_20260208_000002.jpg,En-suite,Room overview,,Flat,EXCLUDED,unrated_null,False,8f5d6e9238c73883,-1
+img_20260208_000003,img_20260208_000003.jpg,data/raw/images/img_20260208_000003.jpg,Kitchen,Kitchen appliance,Brand New,Flat,GOOD,included,True,c094add5da2d3a2b,3
+img_20260208_000004,img_20260208_000004.jpg,data/raw/images/img_20260208_000004.jpg,Kitchen,Wall,Newly Decorated,Flat,GOOD,included,True,d29669c935651ae6,1
+img_20260208_000005,img_20260208_000005.jpg,data/raw/images/img_20260208_000005.jpg,Bedroom,Window,Good,Flat,GOOD,included,True,d692da7f212192d9,4
+img_20260208_000006,img_20260208_000006.jpg,data/raw/images/img_20260208_000006.jpg,Bedroom,Floor,Poor,Mid-Terrace,POOR,included,True,903f3cc0838f1f7a,4
+img_20260208_000007,img_20260208_000007.jpg,data/raw/images/img_20260208_000007.jpg,Dining Room,Room overview,,Semi,EXCLUDED,unrated_null,False,90ee0e6ae14d76d2,-1
+img_20260208_000008,img_20260208_000008.jpg,data/raw/images/img_20260208_000008.jpg,Bedroom,Ceiling,Good,Flat,GOOD,included,True,b906e17f04e07f83,2
+img_20260208_000009,img_20260208_000009.jpg,data/raw/images/img_20260208_000009.jpg,Kitchen,Floor,Good,Mid-Terrace,GOOD,included,True,c03a30c1ff533ec5,4
+img_20260208_000010,img_20260208_000010.jpg,data/raw/images/img_20260208_000010.jpg,Bathroom/Toilet,Window,Good,Mid-Terrace,GOOD,included,True,cc444df97b2383c3,2
+img_20260208_000011,img_20260208_000011.jpg,data/raw/images/img_20260208_000011.jpg,En-suite,Room overview,,Flat,EXCLUDED,unrated_null,False,b99d86665c816e3a,-1
+img_20260209_000001,img_20260209_000001.jpg,data/raw/images/img_20260209_000001.jpg,Garden and Outdoors,Room overview,,Town house,EXCLUDED,unrated_null,False,b8e7bc489134877a,-1
+img_20260209_000002,img_20260209_000002.jpg,data/raw/images/img_20260209_000002.jpg,Bedroom,Floor,Clean,Mid-Terrace,GOOD,included,True,c080ff7f0f80c07f,4
+img_20260209_000003,img_20260209_000003.jpg,data/raw/images/img_20260209_000003.jpg,Reception Room,Room overview,,Detached,EXCLUDED,unrated_null,False,f370981fc7d19087,-1
+img_20260209_000004,img_20260209_000004.jpg,data/raw/images/img_20260209_000004.jpg,Cellar/Basement,Room overview,,Detached,EXCLUDED,unrated_null,False,c718b3870cfa8d4e,-1
+img_20260209_000005,img_20260209_000005.jpg,data/raw/images/img_20260209_000005.jpg,En-suite,Room overview,,Flat,EXCLUDED,unrated_null,False,93e912b5923c6cd3,-1
+img_20260209_000006,img_20260209_000006.jpg,data/raw/images/img_20260209_000006.jpg,Conservatory,Room overview,,Detached,EXCLUDED,unrated_null,False,c80cb1f7c71ca69c,-1
+img_20260209_000007,img_20260209_000007.jpg,data/raw/images/img_20260209_000007.jpg,Stairs,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,b8d907f6894ca07b,-1
+img_20260209_000008,img_20260209_000008.jpg,data/raw/images/img_20260209_000008.jpg,Hallway,Floor,Good,Flat,GOOD,included,True,ff3505a070a2ea4f,3
+img_20260209_000009,img_20260209_000009.jpg,data/raw/images/img_20260209_000009.jpg,WC,Room overview,,Semi,EXCLUDED,unrated_null,False,b48b6d84cbb08e73,-1
+img_20260209_000010,img_20260209_000010.jpg,data/raw/images/img_20260209_000010.jpg,Bathroom/Toilet,Room overview,,Semi,EXCLUDED,unrated_null,False,8ad52ef689614e3c,-1
+img_20260209_000011,img_20260209_000011.jpg,data/raw/images/img_20260209_000011.jpg,Bedroom,Ceiling,Good,Semi,GOOD,included,True,b3cc3b7c3d4b8850,1
+img_20260209_000012,img_20260209_000012.jpg,data/raw/images/img_20260209_000012.jpg,Bedroom,Room overview,,Detached,EXCLUDED,unrated_null,False,83d876e79a159a46,-1
+img_20260209_000013,img_20260209_000013.jpg,data/raw/images/img_20260209_000013.jpg,Bedroom,Room overview,,Flat,EXCLUDED,unrated_null,False,ed8d16d686ae80cd,-1
+img_20260209_000014,img_20260209_000014.jpg,data/raw/images/img_20260209_000014.jpg,Utility,Room overview,,Flat,EXCLUDED,unrated_null,False,afc2763f54341931,-1
+img_20260209_000015,img_20260209_000015.jpg,data/raw/images/img_20260209_000015.jpg,En-suite,Room overview,,Flat,EXCLUDED,unrated_null,False,8ec8237179c57987,-1
+img_20260209_000016,img_20260209_000016.jpg,data/raw/images/img_20260209_000016.jpg,Bedroom,Room overview,,Flat,EXCLUDED,unrated_null,False,e0974f68504aa79f,-1
+img_20260209_000017,img_20260209_000017.jpg,data/raw/images/img_20260209_000017.jpg,Kitchen,Room overview,,Detached,EXCLUDED,unrated_null,False,da7be10d2dca88cc,-1
+img_20260209_000018,img_20260209_000018.jpg,data/raw/images/img_20260209_000018.jpg,Kitchen,Floor,Poor,Flat,POOR,included,True,a53820e783cf7f21,3
+img_20260209_000019,img_20260209_000019.jpg,data/raw/images/img_20260209_000019.jpg,Outbuilding,Room overview,,Maisonette,EXCLUDED,unrated_null,False,917f96cccd20b2d2,-1
+img_20260209_000020,img_20260209_000020.jpg,data/raw/images/img_20260209_000020.jpg,Living Room,Ceiling,Good,Flat,GOOD,included,True,91676699726d9172,2
+img_20260209_000021,img_20260209_000021.jpg,data/raw/images/img_20260209_000021.jpg,Bathroom/Toilet,Door,Good,Flat,GOOD,included,True,c29520ff0500ff7d,3
+img_20260209_000022,img_20260209_000022.jpg,data/raw/images/img_20260209_000022.jpg,Bedroom,Wall,Good,Flat,GOOD,included,True,95ea38c768906fb4,1
+img_20260209_000023,img_20260209_000023.jpg,data/raw/images/img_20260209_000023.jpg,Bedroom,Door,Dusty,Flat,FAIR,included,True,fe8131a29ed14e5a,2
+img_20260209_000024,img_20260209_000024.jpg,data/raw/images/img_20260209_000024.jpg,Kitchen,Fixture,Good,Flat,GOOD,included,True,9697179e171f0c07,3
+img_20260209_000025,img_20260209_000025.jpg,data/raw/images/img_20260209_000025.jpg,Kitchen,Ceiling,Brand New,Flat,GOOD,included,True,f8d46707180cf38f,4
+img_20260209_000026,img_20260209_000026.jpg,data/raw/images/img_20260209_000026.jpg,Dining Room,Room overview,,Semi,EXCLUDED,unrated_null,False,e3c78cb2906c5cda,-1
+img_20260209_000027,img_20260209_000027.jpg,data/raw/images/img_20260209_000027.jpg,,Front elevation,,End Terrace,EXCLUDED,unrated_null,False,81bf0ca53eae964a,-1
+img_20260209_000028,img_20260209_000028.jpg,data/raw/images/img_20260209_000028.jpg,Kitchen,Kitchen appliance,Good,Flat,GOOD,included,True,c0e0be4bbaf66990,2
+img_20260209_000029,img_20260209_000029.jpg,data/raw/images/img_20260209_000029.jpg,Kitchen,Kitchen appliance,Good,Semi,GOOD,included,True,8d7e6ca36c81728d,2
+img_20260209_000030,img_20260209_000030.jpg,data/raw/images/img_20260209_000030.jpg,Outbuilding,Room overview,,Semi,EXCLUDED,unrated_null,False,8287949670b51f3f,-1
+img_20260209_000031,img_20260209_000031.jpg,data/raw/images/img_20260209_000031.jpg,,Front elevation,,Detached,EXCLUDED,unrated_null,False,e2ea9ddfc1049a4a,-1
+img_20260209_000032,img_20260209_000032.jpg,data/raw/images/img_20260209_000032.jpg,Reception Room,Room overview,,Detached,EXCLUDED,unrated_null,False,cd12e360d0c7d7d8,-1
+img_20260209_000033,img_20260209_000033.jpg,data/raw/images/img_20260209_000033.jpg,Landing,Room overview,,Detached,EXCLUDED,unrated_null,False,82af2162fa9797e0,-1
+img_20260209_000034,img_20260209_000034.jpg,data/raw/images/img_20260209_000034.jpg,Living Room,Door,Good,Flat,GOOD,included,True,bcac43b726181cb7,1
+img_20260209_000035,img_20260209_000035.jpg,data/raw/images/img_20260209_000035.jpg,Garage,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,d02f2ec0edd46dd0,-1
+img_20260209_000036,img_20260209_000036.jpg,data/raw/images/img_20260209_000036.jpg,Outbuilding,Room overview,,Detached,EXCLUDED,unrated_null,False,bf08c135eb8b54a5,-1
+img_20260209_000037,img_20260209_000037.jpg,data/raw/images/img_20260209_000037.jpg,Bedroom,Floor,Fair,Mid-Terrace,FAIR,included,True,caea2b157555c38a,3
+img_20260209_000038,img_20260209_000038.jpg,data/raw/images/img_20260209_000038.jpg,Reception Room,Room overview,,Semi,EXCLUDED,unrated_null,False,af9b4230f3ca98e4,-1
+img_20260209_000039,img_20260209_000039.jpg,data/raw/images/img_20260209_000039.jpg,Dining Room,Room overview,,Semi,EXCLUDED,unrated_null,False,cb1e1555d5e3e0e0,-1
+img_20260209_000040,img_20260209_000040.jpg,data/raw/images/img_20260209_000040.jpg,Kitchen,Kitchen appliance,Fair,Semi,FAIR,included,True,a9c656d6475a492d,4
+img_20260209_000041,img_20260209_000041.jpg,data/raw/images/img_20260209_000041.jpg,Outbuilding,Room overview,,Semi,EXCLUDED,unrated_null,False,ceb0c0fde59c5238,-1
+img_20260209_000042,img_20260209_000042.jpg,data/raw/images/img_20260209_000042.jpg,Living Room,Window,Fair,Flat,FAIR,included,True,ee84e42e99959d45,2
+img_20260209_000043,img_20260209_000043.jpg,data/raw/images/img_20260209_000043.jpg,Landing,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,b9ba4f9639b4c602,-1
+img_20260209_000044,img_20260209_000044.jpg,data/raw/images/img_20260209_000044.jpg,Bedroom,Floor,Poor,Flat,POOR,included,True,9099ec9e7b351689,1
+img_20260209_000045,img_20260209_000045.jpg,data/raw/images/img_20260209_000045.jpg,Bathroom/Toilet,Room overview,,Flat,EXCLUDED,unrated_null,False,b49a46644ad1eed9,-1
+img_20260209_000046,img_20260209_000046.jpg,data/raw/images/img_20260209_000046.jpg,Bedroom,Floor,Poor,Semi,POOR,included,True,cada6ad5d5b2a224,0
+img_20260209_000047,img_20260209_000047.jpg,data/raw/images/img_20260209_000047.jpg,Bedroom,Room overview,,Semi,EXCLUDED,unrated_null,False,d5c36be30db1429c,-1
+img_20260209_000048,img_20260209_000048.jpg,data/raw/images/img_20260209_000048.jpg,Living Room,Ceiling,Good,Semi,GOOD,included,True,d71e633e00fb08e3,4
+img_20260209_000049,img_20260209_000049.jpg,data/raw/images/img_20260209_000049.jpg,Kitchen,Room overview,,Semi,EXCLUDED,unrated_null,False,f106f6608b7b901f,-1
+img_20260209_000050,img_20260209_000050.jpg,data/raw/images/img_20260209_000050.jpg,Hallway,Door,Fair,Town house,FAIR,included,True,c0c62091bb9d7b4f,0
+img_20260209_000051,img_20260209_000051.jpg,data/raw/images/img_20260209_000051.jpg,Cellar/Basement,Room overview,,Detached,EXCLUDED,unrated_null,False,ea749d8875a2a2da,-1
+img_20260209_000052,img_20260209_000052.jpg,data/raw/images/img_20260209_000052.jpg,Kitchen,Fixture,Good,Flat,GOOD,included,True,9988c4bae7c13d95,2
+img_20260209_000053,img_20260209_000053.jpg,data/raw/images/img_20260209_000053.jpg,Bedroom,Floor,Fair,Flat,FAIR,included,True,b5b87c064e3cb8d1,4
+img_20260209_000054,img_20260209_000054.jpg,data/raw/images/img_20260209_000054.jpg,Porch,Room overview,,End Terrace,EXCLUDED,unrated_null,False,a8ca31b1f8dc50f5,-1
+img_20260209_000055,img_20260209_000055.jpg,data/raw/images/img_20260209_000055.jpg,WC,Room overview,,End Terrace,EXCLUDED,unrated_null,False,ad74b509f3333232,-1
+img_20260209_000056,img_20260209_000056.jpg,data/raw/images/img_20260209_000056.jpg,Kitchen,Kitchen appliance,Good,Flat,GOOD,included,True,87a11a87f88ff18c,2
+img_20260209_000057,img_20260209_000057.jpg,data/raw/images/img_20260209_000057.jpg,Bedroom,Door,Newly Decorated,Flat,GOOD,included,True,89f264ed12d66d64,4
+img_20260209_000058,img_20260209_000058.jpg,data/raw/images/img_20260209_000058.jpg,Utility,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,bcc719c718c39ac3,-1
+img_20260209_000059,img_20260209_000059.jpg,data/raw/images/img_20260209_000059.jpg,Bedroom,Floor,Good,Detached,GOOD,included,True,c2dad2c085253dfe,1
+img_20260209_000060,img_20260209_000060.jpg,data/raw/images/img_20260209_000060.jpg,Garage,Room overview,,Detached,EXCLUDED,unrated_null,False,ab0a96d7d1193c65,-1
+img_20260209_000061,img_20260209_000061.jpg,data/raw/images/img_20260209_000061.jpg,Cellar/Basement,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,d2852d323d3e3f03,-1
+img_20260209_000062,img_20260209_000062.jpg,data/raw/images/img_20260209_000062.jpg,En-suite,Room overview,,Detached,EXCLUDED,unrated_null,False,ce106d831bee11ee,-1
+img_20260210_000001,img_20260210_000001.jpg,data/raw/images/img_20260210_000001.jpg,Bedroom,Floor,Good,Flat,GOOD,included,True,80e878fa6a7a6a2b,1
+img_20260210_000002,img_20260210_000002.jpg,data/raw/images/img_20260210_000002.jpg,Kitchen,Wall,Fair,Flat,FAIR,included,True,c0ff33403f4032df,0
+img_20260210_000003,img_20260210_000003.jpg,data/raw/images/img_20260210_000003.jpg,Garage,Room overview,,Semi,EXCLUDED,unrated_null,False,a0ab9f85a5cae01f,-1
+img_20260210_000004,img_20260210_000004.jpg,data/raw/images/img_20260210_000004.jpg,Bedroom,Room overview,,Detached,EXCLUDED,unrated_null,False,bc629807798fb147,-1
+img_20260210_000005,img_20260210_000005.jpg,data/raw/images/img_20260210_000005.jpg,Garage,Room overview,,Detached,EXCLUDED,unrated_null,False,bfa1c020ff7f4501,-1
+img_20260210_000006,img_20260210_000006.jpg,data/raw/images/img_20260210_000006.jpg,Hallway,Room overview,,Flat,EXCLUDED,unrated_null,False,d2c2352dda525d87,-1
+img_20260210_000007,img_20260210_000007.jpg,data/raw/images/img_20260210_000007.jpg,Kitchen,Kitchen appliance,Good,Mid-Terrace,GOOD,included,True,a180ffc58e3a78c5,3
+img_20260210_000008,img_20260210_000008.jpg,data/raw/images/img_20260210_000008.jpg,Hallway,Ceiling,Clean,Mid-Terrace,GOOD,included,True,ce348f704f19d11b,4
+img_20260210_000009,img_20260210_000009.jpg,data/raw/images/img_20260210_000009.jpg,Living Room,Floor,Clean,Mid-Terrace,GOOD,included,True,ff7023a72792b0b0,0
+img_20260210_000010,img_20260210_000010.jpg,data/raw/images/img_20260210_000010.jpg,Hallway,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,b8c924830c32ddff,-1
+img_20260210_000011,img_20260210_000011.jpg,data/raw/images/img_20260210_000011.jpg,Stairs,Floor,Used,Terrace,FAIR,included,True,beb11792923096ed,1
+img_20260210_000012,img_20260210_000012.jpg,data/raw/images/img_20260210_000012.jpg,Kitchen,Room overview,,End Terrace,EXCLUDED,unrated_null,False,d5e2226d8433e79c,-1
+img_20260210_000013,img_20260210_000013.jpg,data/raw/images/img_20260210_000013.jpg,Dining Room,Ceiling,Aged,Mid-Terrace,FAIR,included,True,c02775dc07f0689f,3
+img_20260210_000014,img_20260210_000014.jpg,data/raw/images/img_20260210_000014.jpg,Kitchen,Kitchen appliance,Clean,Flat,GOOD,included,True,9ba80c876b916db6,1
+img_20260210_000015,img_20260210_000015.jpg,data/raw/images/img_20260210_000015.jpg,Landing,Wall,Clean,Flat,GOOD,included,True,fc9f854895689768,0
+img_20260210_000016,img_20260210_000016.jpg,data/raw/images/img_20260210_000016.jpg,Kitchen,Room overview,,Flat,EXCLUDED,unrated_null,False,86b0216d5b4f785b,-1
+img_20260210_000017,img_20260210_000017.jpg,data/raw/images/img_20260210_000017.jpg,,Front elevation,,Flat,EXCLUDED,unrated_null,False,ef90d14f780f1691,-1
+img_20260210_000018,img_20260210_000018.jpg,data/raw/images/img_20260210_000018.jpg,Bathroom/Toilet,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,a9900f3ec0fb1e27,-1
+img_20260210_000019,img_20260210_000019.jpg,data/raw/images/img_20260210_000019.jpg,Cellar/Basement,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,e8db5a94d2d5c1c1,-1
+img_20260210_000020,img_20260210_000020.jpg,data/raw/images/img_20260210_000020.jpg,Bathroom/Toilet,Ceiling,Newly Decorated,Flat,GOOD,included,True,e8570f29f00f0fe8,0
+img_20260210_000021,img_20260210_000021.jpg,data/raw/images/img_20260210_000021.jpg,Kitchen,Room overview,,Detached,EXCLUDED,unrated_null,False,ff8234d055a589cd,-1
+img_20260210_000022,img_20260210_000022.jpg,data/raw/images/img_20260210_000022.jpg,Kitchen,Floor,Dusty,End Terrace,FAIR,included,True,9f2aa4807f2fbb80,3
+img_20260210_000023,img_20260210_000023.jpg,data/raw/images/img_20260210_000023.jpg,Bathroom/Toilet,Wall,Good,End Terrace,GOOD,included,True,bb964ff1403bc431,0
+img_20260210_000024,img_20260210_000024.jpg,data/raw/images/img_20260210_000024.jpg,Living Room,Floor,As New,Semi,GOOD,included,True,cdac25a7070b4bda,3
+img_20260210_000025,img_20260210_000025.jpg,data/raw/images/img_20260210_000025.jpg,Kitchen,Floor,Clean,Semi,GOOD,included,True,e1c85a7a2476cb8d,3
+img_20260210_000026,img_20260210_000026.jpg,data/raw/images/img_20260210_000026.jpg,Bedroom,Room overview,,Flat,EXCLUDED,unrated_null,False,ff45b8a897363418,-1
+img_20260210_000027,img_20260210_000027.jpg,data/raw/images/img_20260210_000027.jpg,Kitchen,Floor,Brand New,Mid-Terrace,GOOD,included,True,d293252565626fe5,4
+img_20260210_000028,img_20260210_000028.jpg,data/raw/images/img_20260210_000028.jpg,Stairs,Room overview,,Mid-Terrace,EXCLUDED,unrated_null,False,fed70b61e11c2b30,-1
+img_20260210_000029,img_20260210_000029.jpg,data/raw/images/img_20260210_000029.jpg,Garden and Outdoors,Room overview,,Semi,EXCLUDED,unrated_null,False,e2defbb28145498a,-1
+img_20260210_000030,img_20260210_000030.jpg,data/raw/images/img_20260210_000030.jpg,Utility,Room overview,,End Terrace,EXCLUDED,unrated_null,False,c69329acd30e4dcb,-1
+img_20260210_000031,img_20260210_000031.jpg,data/raw/images/img_20260210_000031.jpg,Bathroom/Toilet,Door,Brand New,Flat,GOOD,included,True,e19c1a8e9a8dd2cd,3
+img_20260210_000032,img_20260210_000032.jpg,data/raw/images/img_20260210_000032.jpg,Dining Room,Room overview,,Semi,EXCLUDED,unrated_null,False,f4af0b1430be3ae8,-1
+img_20260210_000033,img_20260210_000033.jpg,data/raw/images/img_20260210_000033.jpg,Bathroom/Toilet,Door,Poor,Semi,POOR,included,True,c4ab74d3a4d583ac,4
+img_20260210_000034,img_20260210_000034.jpg,data/raw/images/img_20260210_000034.jpg,Kitchen,Kitchen appliance,Good,Flat,GOOD,included,True,add0dae5f5384603,4
+img_20260210_000035,img_20260210_000035.jpg,data/raw/images/img_20260210_000035.jpg,Living Room,Door,Clean,Flat,GOOD,included,True,cd7f3378360c7260,2
+img_20260210_000036,img_20260210_000036.jpg,data/raw/images/img_20260210_000036.jpg,Bathroom/Toilet,Room overview,,Flat,EXCLUDED,unrated_null,False,a5364b5a8c5ba68b,-1
+img_20260210_000037,img_20260210_000037.jpg,data/raw/images/img_20260210_000037.jpg,Living Room,Door,Brand New,End Terrace,GOOD,included,True,fbbe47a1d0142c72,3
+img_20260210_000038,img_20260210_000038.jpg,data/raw/images/img_20260210_000038.jpg,WC,Fixture,Good,End Terrace,GOOD,included,True,b12b5dfb54584187,3
+img_20260210_000039,img_20260210_000039.jpg,data/raw/images/img_20260210_000039.jpg,Hallway,Door,Good,Flat,GOOD,included,True,a3d139c66c99c873,4
+img_20260210_000040,img_20260210_000040.jpg,data/raw/images/img_20260210_000040.jpg,Bedroom,Window,Aged,Flat,FAIR,included,True,eb64161e5f0414f7,4
+img_20260210_000041,img_20260210_000041.jpg,data/raw/images/img_20260210_000041.jpg,Bathroom/Toilet,Wall,Good,Flat,GOOD,included,True,fb603d92e130f45a,4
+img_20260210_000042,img_20260210_000042.jpg,data/raw/images/img_20260210_000042.jpg,Kitchen,Kitchen appliance,Good,Flat,GOOD,included,True,803f6bc07cf7818e,0
+img_20260210_000043,img_20260210_000043.jpg,data/raw/images/img_20260210_000043.jpg,,Front elevation,,Flat,EXCLUDED,unrated_null,False,f8f04a9f688a0df4,-1
+img_20260210_000044,img_20260210_000044.jpg,data/raw/images/img_20260210_000044.jpg,Bedroom,Floor,Poor,Flat,POOR,included,True,bf7c60434f868687,2
+img_20260210_000045,img_20260210_000045.jpg,data/raw/images/img_20260210_000045.jpg,Conservatory,Room overview,,Semi,EXCLUDED,unrated_null,False,ff9e2283944c99c3,-1
+img_20260210_000046,img_20260210_000046.jpg,data/raw/images/img_20260210_000046.jpg,Conservatory,Door,Poor,Semi,POOR,included,True,9854a43dcdcee784,3
+img_20260210_000047,img_20260210_000047.jpg,data/raw/images/img_20260210_000047.jpg,Conservatory,Window,Poor,Semi,POOR,included,True,e0a09f2d2c971f87,4
+img_20260210_000048,img_20260210_000048.jpg,data/raw/images/img_20260210_000048.jpg,Kitchen,Kitchen appliance,As New,Flat,GOOD,included,True,95a17806795c6f72,2
+img_20260210_000049,img_20260210_000049.jpg,data/raw/images/img_20260210_000049.jpg,Bedroom,Floor,Good,Flat,GOOD,included,True,9bbf5948d812939a,3
+img_20260211_000001,img_20260211_000001.jpg,data/raw/images/img_20260211_000001.jpg,Stairs,Wall,Aged,Terrace,FAIR,included,True,98e863e3733838b3,0
+img_20260211_000002,img_20260211_000002.jpg,data/raw/images/img_20260211_000002.jpg,Bathroom/Toilet,Fixture,Good,Terrace,GOOD,included,True,f8ba472c12953ac7,0
+img_20260211_000003,img_20260211_000003.jpg,data/raw/images/img_20260211_000003.jpg,Landing,Room overview,,Terrace,EXCLUDED,unrated_null,False,f08c67474b47d782,-1
+img_20260211_000004,img_20260211_000004.jpg,data/raw/images/img_20260211_000004.jpg,Kitchen,Floor,Fair,Terrace,FAIR,included,True,cdcdece1e2b46230,2
+img_20260211_000005,img_20260211_000005.jpg,data/raw/images/img_20260211_000005.jpg,Bedroom,Wall,As New,Flat,GOOD,included,True,edb2f265599292a4,3
+img_20260211_000006,img_20260211_000006.jpg,data/raw/images/img_20260211_000006.jpg,Kitchen,Room overview,,Flat,EXCLUDED,unrated_null,False,a8dc97a3e29d6864,-1
+img_20260211_000007,img_20260211_000007.jpg,data/raw/images/img_20260211_000007.jpg,Landing,Room overview,,Semi,EXCLUDED,unrated_null,False,cc7f331039ccda31,-1
+img_20260211_000008,img_20260211_000008.jpg,data/raw/images/img_20260211_000008.jpg,En-suite,Room overview,,Semi,EXCLUDED,unrated_null,False,ffb5433c42a942aa,-1
+img_20260211_000009,img_20260211_000009.jpg,data/raw/images/img_20260211_000009.jpg,,Front elevation,,Detached,EXCLUDED,unrated_null,False,81fdabc0c65909f5,-1
+img_20260211_000010,img_20260211_000010.jpg,data/raw/images/img_20260211_000010.jpg,WC,Fixture,Good,Flat,GOOD,included,True,ffcf40b08ad54a38,3

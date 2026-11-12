@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260209_000018",
+    "filename":  "img_20260209_000018.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-09",
+    "capture_date":  "2026-02-09",
+    "capture_device":  "Apple iPad mini",
+    "property":  {
+                     "archetype":  "Flat",
+                     "property_type":  "Flat/Apartment",
+                     "region":  "Greater London"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Kitchen",
+                                 "floor":  null,
+                                 "room_label":  "Kitchen"
+                             },
+    "subject":  {
+                    "element_type":  "Floor",
+                    "element_subtype":  "Vinyl Flooring"
+                },
+    "labels":  {
+                   "condition_rating":  "Poor",
+                   "material":  "Vinyl Flooring",
+                   "colour":  "Grey",
+                   "finish":  "Vinyl Flooring",
+                   "brand":  null,
+                   "defect_types":  [
+
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client User",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "480x640",
+                            "aspect_ratio":  "3:4",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  96
+                        }
+}

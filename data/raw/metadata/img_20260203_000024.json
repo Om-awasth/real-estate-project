@@ -1,0 +1,42 @@
+{
+    "image_id":  "img_20260203_000024",
+    "filename":  "img_20260203_000024.jpg",
+    "inspection_type":  "Inventory",
+    "upload_date":  "2026-02-03",
+    "capture_date":  "2026-02-03",
+    "capture_device":  "Apple iPhone 15 Pro Max",
+    "property":  {
+                     "archetype":  "Town house",
+                     "property_type":  "House",
+                     "region":  "South West England"
+                 },
+    "location_in_property":  {
+                                 "room_type":  "Hallway",
+                                 "floor":  null,
+                                 "room_label":  "Hallway"
+                             },
+    "subject":  {
+                    "element_type":  "Room overview",
+                    "element_subtype":  null
+                },
+    "labels":  {
+                   "condition_rating":  null,
+                   "material":  null,
+                   "colour":  null,
+                   "finish":  null,
+                   "brand":  null,
+                   "defect_types":  [
+
+                                    ]
+               },
+    "annotator":  {
+                      "role":  "Client Admin",
+                      "report_qa_status":  "Draft"
+                  },
+    "image_technical":  {
+                            "dimensions_pixels":  "480x640",
+                            "aspect_ratio":  "3:4",
+                            "orientation":  "Portrait",
+                            "file_size_kb":  74
+                        }
+}
