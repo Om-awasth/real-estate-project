@@ -6,7 +6,7 @@ Upload a real-estate photo to view:
 1. Automated condition & lighting analysis
 2. Diverse augmentation recipes preserving wear/cleanliness signals
 3. Generated classical and generative relit variants
-4. Strict quality & label-preservation verification decisions
+4. Strict quality & label-preservation verification decisions with explicit physical reasons (e.g. dim light, scratches obscured, camera tilt)
 """
 
 import os
@@ -163,7 +163,7 @@ if selected_image_path and selected_image_path.exists():
 
             cv2.imwrite(str(aug_save_path), aug_img)
 
-            # Verification Audit
+            # Verification Audit with Physical Diagnostics
             report = verify_augmented_photo(
                 selected_image_path,
                 aug_save_path,
@@ -175,12 +175,24 @@ if selected_image_path and selected_image_path.exists():
 
         with aug_cols[i]:
             st.image(Image.open(aug_save_path), caption=f"Variant: {recipe.id}", use_container_width=True)
+            
+            # Decision Badge
             if report.final_decision == "accept":
                 st.success(f"✅ **ACCEPTED** (Realism: {report.judge_result.realism}/5)")
+                st.markdown(f"**Verification Reason:** {report.judge_result.reason}")
             else:
-                st.error(f"❌ **REJECTED** (Reason: {report.judge_result.reason})")
+                st.error("❌ **REJECTED**")
+                # Prominent concrete physical rejection reason
+                st.markdown(f"**🚫 Reason for Rejection:**\n> *{report.judge_result.reason}*")
 
-            st.caption(f"Semantic Cosine Sim: `{report.embedding_similarity:.3f}` | Edge Sim: `{report.edge_similarity:.3f}`")
+            # Physical Diagnostic Inspection Details
+            with st.expander("🔍 Physical Inspection Diagnostics"):
+                d = report.diagnostics
+                st.markdown(f"- 💡 **Illumination Level:** `{d.mean_brightness}/255` {'(⚠️ Too Dim)' if d.is_dim_light else ('(⚠️ Flash Glare)' if d.is_glare_blowout else '(Balanced)'}")
+                st.markdown(f"- 🔎 **Scratches & Cracks:** {'✅ Preserved' if d.scratches_preserved else '⚠️ Obscured / Softened'}")
+                st.markdown(f"- 📐 **Geometry / Tilt:** `{d.tilt_severity.replace('_', ' ').capitalize()}`")
+                st.markdown(f"- 🌫️ **Sharpness / Blur:** `{d.blur_score}` {'(⚠️ Motion Blur)' if d.is_excessively_blurred else '(Sharp)'}")
+                st.markdown(f"- 🎯 **Semantic Similarity:** `{report.embedding_similarity:.3f}` (Threshold $\ge 0.65$)")
+                st.markdown(f"- 📏 **Edge Correlation:** `{report.edge_similarity:.3f}`")
 else:
     st.info("👈 Please select or upload a property element photo in the sidebar to begin.")
-
