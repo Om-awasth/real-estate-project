@@ -188,11 +188,19 @@ if selected_image_path and selected_image_path.exists():
             # Physical Diagnostic Inspection Details
             with st.expander("🔍 Physical Inspection Diagnostics"):
                 d = report.diagnostics
-                st.markdown(f"- 💡 **Illumination Level:** `{d.mean_brightness}/255` {'(⚠️ Too Dim)' if d.is_dim_light else ('(⚠️ Flash Glare)' if d.is_glare_blowout else '(Balanced)'}")
-                st.markdown(f"- 🔎 **Scratches & Cracks:** {'✅ Preserved' if d.scratches_preserved else '⚠️ Obscured / Softened'}")
+                if d.is_dim_light:
+                    illum_status = "(⚠️ Too Dim)"
+                elif d.is_glare_blowout:
+                    illum_status = "(⚠️ Flash Glare)"
+                else:
+                    illum_status = "(Balanced)"
+                st.markdown(f"- 💡 **Illumination Level:** `{d.mean_brightness}/255` {illum_status}")
+                scratch_status = "✅ Preserved" if d.scratches_preserved else "⚠️ Obscured / Softened"
+                st.markdown(f"- 🔎 **Scratches & Cracks:** {scratch_status}")
                 st.markdown(f"- 📐 **Geometry / Tilt:** `{d.tilt_severity.replace('_', ' ').capitalize()}`")
-                st.markdown(f"- 🌫️ **Sharpness / Blur:** `{d.blur_score}` {'(⚠️ Motion Blur)' if d.is_excessively_blurred else '(Sharp)'}")
-                st.markdown(f"- 🎯 **Semantic Similarity:** `{report.embedding_similarity:.3f}` (Threshold $\ge 0.65$)")
+                blur_status = "(⚠️ Motion Blur)" if d.is_excessively_blurred else "(Sharp)"
+                st.markdown(f"- 🌫️ **Sharpness / Blur:** `{d.blur_score}` {blur_status}")
+                st.markdown(f"- 🎯 **Semantic Similarity:** `{report.embedding_similarity:.3f}` (Threshold $\\ge 0.65$)")
                 st.markdown(f"- 📏 **Edge Correlation:** `{report.edge_similarity:.3f}`")
 else:
     st.info("👈 Please select or upload a property element photo in the sidebar to begin.")
